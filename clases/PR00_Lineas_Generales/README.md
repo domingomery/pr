@@ -3,8 +3,9 @@
 ### 0.1 Presentacion del curso:
 * > **Clase PR00: ¿En qué consiste el curso?** 
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/PR00_PresentacionCurso.pdf)
-* >> [+] Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/PR00_Programa.pdf)
-* >> [+] Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/PR00_Lineamientos_uso_IA_ver_2.pdf)
+* >> [+] Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Programa_ReconocimientoPatrones2026)
+* >> [+] Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Lineamientos_uso_IA_ver_2.pdf)
+* >> [+] Lineamientos del uso de la IA en Ingeniería UC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/IA_en_la_formacion_Escuela_ING_2026-07-31.pdf)
 ### 0.2 Bibliografía:
 * >> [+] Elements of Statistical Learning (Hastie et al., 2008) [[Libro]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Elements_of_Statistical_Learning.pdf)
 * >> [+] Neural Networks and Deep Learning (Aggarwal, 2019) [[Libro]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2018_Book_NeuralNetworksAndDeepLearning.pdf)
@@ -15,4 +16,4 @@
 ---
 
 
-Updated on 04-Aug-2026 at 17:34 by Domingo Mery
+Updated on 04-Aug-2026 at 17:41 by Domingo Mery

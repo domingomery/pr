@@ -18,8 +18,9 @@
 * 0.0 &nbsp; **PRESENTACIÓN DEL CURSO**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Clase PR00: ¿En qué consiste el curso?**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/PR00_PresentacionCurso.pdf)
-* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/PR00_Programa.pdf)
-* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/PR00_Lineamientos_uso_IA_ver_2.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Programa_ReconocimientoPatrones2026)
+* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Lineamientos_uso_IA_ver_2.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Lineamientos del uso de la IA en Ingeniería UC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/IA_en_la_formacion_Escuela_ING_2026-07-31.pdf)
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Elements of Statistical Learning (Hastie et al., 2008) [[Libro]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Elements_of_Statistical_Learning.pdf)
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Neural Networks and Deep Learning (Aggarwal, 2019) [[Libro]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2018_Book_NeuralNetworksAndDeepLearning.pdf)
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Deep Learning (Goodfellow, 2016) [[Libro]](http://www.deeplearningbook.org)
@@ -29,4 +30,4 @@
 ---
 
 
-Updated on 04-Aug-2026 at 17:34 by Domingo Mery
+Updated on 04-Aug-2026 at 17:41 by Domingo Mery
