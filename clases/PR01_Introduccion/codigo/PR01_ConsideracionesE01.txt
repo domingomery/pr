@@ -1,0 +1,24 @@
+Consideraciones preliminares para el Ejercicio 01
+
+La imagen a procesar (que es el conjunto de entrenamiento) se encuentra aquí
+
+https://www.dropbox.com/scl/fi/bowssxnvw8cjv74kr40tn/numbers.png?rlkey=5zr8w1h5a1dh6q4dh7psf7550
+
+Para descargarla en Colab se deben usar estos pasos:
+
+!wget https://www.dropbox.com/scl/fi/bowssxnvw8cjv74kr40tn/numbers.png?rlkey=5zr8w1h5a1dh6q4dh7psf7550
+!mv numbers.png?rlkey=5zr8w1h5a1dh6q4dh7psf7550 numbers.png
+
+El ejercicio consiste en detectar los ochos, es decir hay dos clases (los ochos que son 10, y los no-ochos que son noventa)
+
+Para detectar los ochos una buena idea es contar el número de agujeros (Na), y el algoritmo de clasificación sería:
+
+- Si Na es dos entonces es un ocho, de lo contrario es un no-ocho
+
+Una característica que se puede emplear para esto es "Euler Number", usar google o IA para implementar una función que a partir de una imagen binaria se determine el número de agujeros, algo así como:
+
+Na = NumeroAgujeros(S)
+
+El ejercicio en clase debe basarse en el código del ejemplo introductorio de la primera clase.
+
+Debe terminar con la matriz de confusión del conjunto de entrenamiento. No hay imágenes de pruebas.

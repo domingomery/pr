@@ -1,0 +1,24 @@
+Consideraciones preliminares para el Ejercicio 02
+
+En este ejercicio se implementarán distintos algoritmos de procesamiento de imagenes.
+
+La imagen a procesar se encuentra aquí
+
+https://www.dropbox.com/scl/fi/1i447glez9khs7eu0cym7/littlesister.png?rlkey=q1uq2b033bbm82aaqnghu5dxf
+
+(se debe trabajar sólo con el primer canal, es decir una matriz de 1000 x 1000 pixeles que se llamara 'X')
+
+Los algoritmos de procesamiento de imágenes a implementar son del tipo Y = algoritmo(X), donde X siempre
+será la misma imagen de 1000 x 1000 definida arriba. Para cada procesamiento se debe desplegar la salida Y.
+
+1. Cambio de tamaño: generar una imagen de N x N pixeles, donde a) N=200, y b) N=1200.
+
+2. Rotación: generar una imagen de 400 x 400 pixeles rotada 45° en sentido horario cuyo centro es el pixel central de la imagen.
+
+3. Histogramas: a) Desplegar el histograma de X. b) Equalizar X (mostrar histograma e imagen equalizada)
+
+4. Máscaras: a) Filtro pasa Bajos: Generar una imagen filtrada por una máscara de m x m elementos, cuyos elementos son iguales a 1/(m*m), con m = 35.
+b) Filtro pasa Altos: Restar de X la imagen obtenida en el paso anterior.
+
+
+
