@@ -1,10 +1,11 @@
 
 # Capitulo 01: Introduccion
 ### 1.1 Que es reconocimiento de patrones?:
-* > **Clase PR01A: ¿Qué es reconocimiento de patrones?** 
+* > ¿Qué es reconocimiento de patrones? 
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.pdf)
 * >> Python [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
 * >> Datos [[Folder]](https://github.com/domingomery/pr/tree/main/clases/PR01_Introduccion/datos)
+* --- 
 * > Material de apoyo para la clase 
 * >> [+] Visualización de segementación [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_showSegmentation.m)
 * >> [+] Archivos Epstein [[Link]](http://jmail.world)
@@ -16,7 +17,7 @@
 * > Material de apoyo para la clase 
 * [+] >> Reconocimiento de patrones estadístico (Jain, 2009) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/Jain_StatisticalPatternRecognition_2000.pdf)
 * **PRE01: EJERCICIO EN CLASES E01** [[Colab]](http://google.drive/osso)
-* > Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/python/PRE01_Consideraciones.txt)
+* > Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PRE01_Consideraciones.txt)
 * > Explicación del ejercicio E01 [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PRE01_Ochos.pdf)
 * > Solución a E01 [[Colab]](http://google.drive/osso)
 * > Explicación del ejercicio E02 [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentations/PAT01_E02_ProcesamientoImagenes.pptx)
@@ -26,4 +27,4 @@
 ---
 
 
-Updated on 04-Aug-2026 at 19:39 by Domingo Mery
+Updated on 05-Aug-2026 at 19:12 by Domingo Mery
