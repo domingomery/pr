@@ -11,10 +11,11 @@
 * >> [+] Archivos Epstein [[Link]](http://jmail.world)
 * >> [+] Ejercicio visión humana [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_EjercicioReconocimiento.pptx)
 * >> [+] Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_Chihuahua_or_Muffin.pptx)
-* > **Clase PR01B: Metodología de Reconocimiento de Patrones** 
-* >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.pdf)
-* >> Python [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
-* > Material de apoyo para la clase 
+* > Metodología de Reconocimiento de Patrones 
+* >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.*)
+* >> Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
+* --------------------------------------------------------- 
+* > **Material de apoyo para la clase** 
 * [+] >> Reconocimiento de patrones estadístico (Jain, 2009) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/Jain_StatisticalPatternRecognition_2000.pdf)
 * **PRE01: EJERCICIO EN CLASES E01** [[Colab]](http://google.drive/osso)
 * > Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PRE01_Consideraciones.txt)
@@ -27,4 +28,4 @@
 ---
 
 
-Updated on 05-Aug-2026 at 19:39 by Domingo Mery
+Updated on 05-Aug-2026 at 19:48 by Domingo Mery
