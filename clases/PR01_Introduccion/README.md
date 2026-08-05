@@ -5,7 +5,7 @@
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.pdf)
 * >> Python [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
 * >> Datos [[Folder]](https://github.com/domingomery/pr/tree/main/clases/PR01_Introduccion/datos)
-* --- 
+* --------------------------------------------------------- 
 * > Material de apoyo para la clase 
 * >> [+] Visualización de segementación [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_showSegmentation.m)
 * >> [+] Archivos Epstein [[Link]](http://jmail.world)
@@ -27,4 +27,4 @@
 ---
 
 
-Updated on 05-Aug-2026 at 19:12 by Domingo Mery
+Updated on 05-Aug-2026 at 19:13 by Domingo Mery
