@@ -6,7 +6,7 @@
 * >> Python [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
 * >> Datos [[Folder]](https://github.com/domingomery/pr/tree/main/clases/PR01_Introduccion/datos)
 * --------------------------------------------------------- 
-* > Material de apoyo para la clase 
+* > **Material de apoyo para la clase** 
 * >> [+] Visualización de segementación [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_showSegmentation.m)
 * >> [+] Archivos Epstein [[Link]](http://jmail.world)
 * >> [+] Ejercicio visión humana [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_EjercicioReconocimiento.pptx)
@@ -27,4 +27,4 @@
 ---
 
 
-Updated on 05-Aug-2026 at 19:13 by Domingo Mery
+Updated on 05-Aug-2026 at 19:14 by Domingo Mery
