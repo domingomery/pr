@@ -2,7 +2,7 @@
 # Capitulo 01: Introduccion
 ### 1.1 Que es reconocimiento de patrones?:
 * > ¿Qué es reconocimiento de patrones? 
-* >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.pdf)
+* >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.*)
 * >> Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
 * --------------------------------------------------------- 
 * > **Material de apoyo para la clase** 
@@ -27,4 +27,4 @@
 ---
 
 
-Updated on 05-Aug-2026 at 19:17 by Domingo Mery
+Updated on 05-Aug-2026 at 19:25 by Domingo Mery
