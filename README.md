@@ -3,12 +3,13 @@
 ## Planificacion del curso por dia
 (este material tambien esta disponible en las clases de cada capitulo)
 
+<hr/>
 ### Clase 01 Ma. 11-Aug-2026:
 * 1.0 &nbsp; **CLASE PR-01-A &mdash; INTRODUCCIÓN**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  ¿Qué es reconocimiento de patrones?
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01A_EjemploIntroductorio.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
-* 1.1 &nbsp; <hr/>
+* 1.1 &nbsp; ---------------------------------------------------------
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Datos usados en el ejemplo [[Folder]](https://github.com/domingomery/pr/tree/main/clases/PR01_Introduccion/datos)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Visualización de segementación [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_showSegmentation.m)
@@ -16,6 +17,7 @@
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Ejercicio visión humana [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_EjercicioReconocimiento.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_Chihuahua_or_Muffin.pptx)
 
+<hr/>
 ### Clase 02 Ju. 13-Aug-2026:
 * 0.0 &nbsp; **CLASE PR-00**
 * 0.0 &nbsp; &nbsp; &nbsp; &nbsp;  **Presentación del curso**
@@ -42,12 +44,14 @@
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 1.1 &nbsp; [+] >> Reconocimiento de patrones estadístico (Jain, 2009) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/Jain_StatisticalPatternRecognition_2000.pdf)
 
+<hr/>
 ### Clase 03 Ma. 18-Aug-2026:
 * 1.1 &nbsp; **PRE01: EJERCICIO EN CLASES E01** [[Colab]](http://google.drive/osso)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PRE01_Consideraciones.txt)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E01 [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PRE01_Ochos.pdf)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E01 [[Colab]](http://google.drive/osso)
 
+<hr/>
 ### Clase 04 Ju. 20-Aug-2026:
 * 1.0 &nbsp; **INTRODUCCIÓN (cont.)**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Clase PR01C: Procesamiento de imágenes**
@@ -59,12 +63,14 @@
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos con máscaras (convolución con kernels) [[Colab]](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización de histograma [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_HistogramVisualization.m)
 
+<hr/>
 ### Clase 05 Ma. 25-Aug-2026:
 * 1.2 &nbsp; **E02: EJERCICIO EN CLASES 02** [[Colab]](https://drive.google.com/file/d/1I0r4PRsB91r2YFq9rzR01VPO4XBMUCro/view?usp=sharing)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/python/ConsideracionesE02.txt)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E02 [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentations/PAT01_E02_ProcesamientoImagenes.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E02 [[Colab]](https://drive.google.com/file/d/1Oq7IxHmnIl1tEgVL6V0edl3qVRft0Hjj/view?usp=sharing)
 
+<hr/>
 ### Clase 06 Ju. 26-Mar-2026:
 * 2.0 &nbsp; **EXTRACCIÓN DE CARACTERISTICAS**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Introducción**
@@ -77,6 +83,7 @@
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Momentos de Flusser [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Descriptores de Fourier [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
 
+<hr/>
 ### Clase 07 Ma. 31-Mar-2026:
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Segmentación de imágenes**
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Segmentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentations/PAT02_Segmentacion.pptx)
@@ -86,4 +93,4 @@
 ---
 
 
-Updated on 05-Aug-2026 at 20:01 by Domingo Mery
+Updated on 05-Aug-2026 at 21:21 by Domingo Mery
