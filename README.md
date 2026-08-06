@@ -35,7 +35,8 @@
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Computer Vision for X-ray Testing, Second Edition (Mery, Pieringer, 2021) [[Libro]](https://link.springer.com/book/10.1007/978-3-030-56769-9)
 * 0.1 &nbsp; ---------------------------------------------------------
 * 1.0 &nbsp; **MÓDULO PR.01.B**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **INTRODUCCIÓN (cont.)  &mdash; Metodología de Reconocimiento de Patrones**
+* 1.1 &nbsp; **&mdash; Cap 01: INTRODUCCIÓN (cont.)**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Metodología de Reconocimiento de Patrones**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01B_FormulacionMetodologica.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo en Python: OCR (J vs. Q) [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
@@ -43,15 +44,19 @@
 <hr/>
 
 ### Clase 03 Ma. 18-Aug-2026:
-* 1.1 &nbsp; **[ MÓDULO PR.E01 ] &mdash; EJERCICIO EN CLASES E01** [[Colab]](http://google.drive/osso)
+* 1.0 &nbsp; **MÓDULO PR.E01**
+* 1.1 &nbsp; **&mdash; Cap 01: INTRODUCCIÓN (cont.)**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E01**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PRE01_Consideraciones.txt)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E01 [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PRE01_Ochos.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PRE01_Ochos.pptx)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E01 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 04 Ju. 20-Aug-2026:
-* 1.0 &nbsp; **[ MÓDULO PR.01.C ] &mdash; INTRODUCCIÓN (cont.)**
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Procesamiento de imágenes
+* 1.0 &nbsp; **MÓDULO PR.01.C**
+* 1.1 &nbsp; **&mdash; Cap 01: INTRODUCCIÓN**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Procesamiento de Imágenes**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01C_ProcesamientoImagenes.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01C_ProcesamientoImagenes.pptx)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo segmentación de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
@@ -62,10 +67,13 @@
 <hr/>
 
 ### Clase 05 Ma. 25-Aug-2026:
-* 1.2 &nbsp; **[ MÓDULO PR.E02 ] &mdash; EJERCICIO EN CLASES E02** [[Colab]](http://google.drive/osso)
+* 1.0 &nbsp; **MÓDULO PR.E01**
+* 1.1 &nbsp; **&mdash; Cap 01: INTRODUCCIÓN (cont.)**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/python/ConsideracionesE02.txt)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E02 [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentations/PAT01_E02_ProcesamientoImagenes.pptx)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E02 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 06 Ju. 26-Mar-2026:
@@ -90,4 +98,4 @@
 ---
 
 
-Updated on 06-Aug-2026 at 07:17 by Domingo Mery
+Updated on 06-Aug-2026 at 07:28 by Domingo Mery
