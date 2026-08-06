@@ -4,7 +4,7 @@
 * > ¿Qué es reconocimiento de patrones? 
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.*)
 * >> Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
-* --------------------------------------------------------- 
+* <hr/> 
 * > **Material de apoyo para la clase** 
 * >> [+] Datos usados en el ejemplo [[Folder]](https://github.com/domingomery/pr/tree/main/clases/PR01_Introduccion/datos)
 * >> [+] Visualización de segementación [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_showSegmentation.m)
@@ -28,4 +28,4 @@
 ---
 
 
-Updated on 05-Aug-2026 at 19:59 by Domingo Mery
+Updated on 05-Aug-2026 at 20:01 by Domingo Mery
