@@ -5,7 +5,7 @@
 <hr/>
 
 ### Clase 01 Ma. 11-Aug-2026:
-* 1.0 &nbsp; **CLASE PR-01-A &mdash; INTRODUCCIÓN**
+* 1.0 &nbsp; **CLASE PR.01.A &mdash; INTRODUCCIÓN**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  ¿Qué es reconocimiento de patrones?
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01A_EjemploIntroductorio.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
@@ -18,7 +18,7 @@
 <hr/>
 
 ### Clase 02 Ju. 13-Aug-2026:
-* 0.0 &nbsp; **CLASE PR-00 &mdash; PRESENTACiÓN DEL CURSO**
+* 0.0 &nbsp; **CLASE PR.00 &mdash; PRESENTACiÓN DEL CURSO**
 * 0.0 &nbsp; &nbsp; &nbsp; &nbsp;  ¿En qué consiste el curso?
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/PR00_PresentacionCurso.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/pptx/PR00_PresentacionCurso.pptx)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Documentos adicionales**
@@ -33,7 +33,7 @@
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Computer Vision for X-ray Testing (Mery, 2015) [[Libro]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2015_ComputerVisionXrays_DMery.pdf)
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Computer Vision for X-ray Testing, Second Edition (Mery, Pieringer, 2021) [[Libro]](https://link.springer.com/book/10.1007/978-3-030-56769-9)
 * 0.1 &nbsp; ---------------------------------------------------------
-* 1.0 &nbsp; **CLASE PR-01-B  &mdash; INTRODUCCIÓN (cont.)**
+* 1.0 &nbsp; **CLASE PR.01.B  &mdash; INTRODUCCIÓN (cont.)**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Metodología de Reconocimiento de Patrones
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01B_FormulacionMetodologica.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
@@ -49,7 +49,7 @@
 <hr/>
 
 ### Clase 04 Ju. 20-Aug-2026:
-* 1.0 &nbsp; **CLASE PR-01-C  &mdash; INTRODUCCIÓN (cont.)**
+* 1.0 &nbsp; **CLASE PR.01.C  &mdash; INTRODUCCIÓN (cont.)**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Procesamiento de imágenes
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01C_ProcesamientoImagenes.pdf)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo segmentación de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
@@ -89,4 +89,4 @@
 ---
 
 
-Updated on 05-Aug-2026 at 21:31 by Domingo Mery
+Updated on 05-Aug-2026 at 21:32 by Domingo Mery
