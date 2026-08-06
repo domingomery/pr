@@ -9,7 +9,6 @@
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  ¿Qué es reconocimiento de patrones?
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01A_EjemploIntroductorio.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
-* 1.1 &nbsp; ---------------------------------------------------------
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Datos usados en el ejemplo [[Folder]](https://github.com/domingomery/pr/tree/main/clases/PR01_Introduccion/datos)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Visualización de segementación [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_showSegmentation.m)
@@ -23,7 +22,6 @@
 * 0.0 &nbsp; &nbsp; &nbsp; &nbsp;  **Presentación del curso**
 * 0.0 &nbsp; &nbsp; &nbsp; &nbsp;  ¿En qué consiste el curso?**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/PR00_PresentacionCurso.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/pptx/PR00_PresentacionCurso.pptx)
-* 0.1 &nbsp; ---------------------------------------------------------
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Documentos adicionales**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Programa_ReconocimientoPatrones2026.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Lineamientos_uso_IA_ver_2.pdf)
@@ -35,12 +33,12 @@
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Computer Vision (Szeliski, 2010) [[Libro]](http://szeliski.org/Book/)
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Computer Vision for X-ray Testing (Mery, 2015) [[Libro]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2015_ComputerVisionXrays_DMery.pdf)
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Computer Vision for X-ray Testing, Second Edition (Mery, Pieringer, 2021) [[Libro]](https://link.springer.com/book/10.1007/978-3-030-56769-9)
+* 0.1 &nbsp; ---------------------------------------------------------
 * 1.0 &nbsp; **CLASE PR-01-B**
 * 1.0 &nbsp; &nbsp; &nbsp; &nbsp;  **Introducción:**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Metodología de Reconocimiento de Patrones
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01B_FormulacionMetodologica.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
-* 1.1 &nbsp; ---------------------------------------------------------
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 1.1 &nbsp; [+] >> Reconocimiento de patrones estadístico (Jain, 2009) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/Jain_StatisticalPatternRecognition_2000.pdf)
 <hr/>
@@ -93,4 +91,4 @@
 ---
 
 
-Updated on 05-Aug-2026 at 21:24 by Domingo Mery
+Updated on 05-Aug-2026 at 21:27 by Domingo Mery

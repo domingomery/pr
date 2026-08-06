@@ -4,7 +4,6 @@
 * > ¿Qué es reconocimiento de patrones? 
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.*)
 * >> Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
-* --------------------------------------------------------- 
 * > **Material de apoyo para la clase** 
 * >> [+] Datos usados en el ejemplo [[Folder]](https://github.com/domingomery/pr/tree/main/clases/PR01_Introduccion/datos)
 * >> [+] Visualización de segementación [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_showSegmentation.m)
@@ -14,7 +13,6 @@
 * > Metodología de Reconocimiento de Patrones 
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.*)
 * >> Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
-* --------------------------------------------------------- 
 * > **Material de apoyo para la clase** 
 * [+] >> Reconocimiento de patrones estadístico (Jain, 2009) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/Jain_StatisticalPatternRecognition_2000.pdf)
 * **PRE01: EJERCICIO EN CLASES E01** [[Colab]](http://google.drive/osso)
@@ -28,4 +26,4 @@
 ---
 
 
-Updated on 05-Aug-2026 at 21:24 by Domingo Mery
+Updated on 05-Aug-2026 at 21:27 by Domingo Mery
