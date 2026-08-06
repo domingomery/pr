@@ -38,20 +38,20 @@
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01B_FormulacionMetodologica.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 1.1 &nbsp; [+] >> Reconocimiento de patrones estadístico (Jain, 2009) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/Jain_StatisticalPatternRecognition_2000.pdf)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [+] Reconocimiento de patrones estadístico (Jain, 2009) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/Jain_StatisticalPatternRecognition_2000.pdf)
 <hr/>
 
 ### Clase 03 Ma. 18-Aug-2026:
-* 1.1 &nbsp; **PRE01: EJERCICIO EN CLASES E01** [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; **[ PR.E01 ] &mdash; EJERCICIO EN CLASES E01** [[Colab]](http://google.drive/osso)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PRE01_Consideraciones.txt)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E01 [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PRE01_Ochos.pdf)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E01 [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PRE01_Ochos.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PRE01_Ochos.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E01 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 04 Ju. 20-Aug-2026:
 * 1.0 &nbsp; **[ PR.01.C ] &mdash; INTRODUCCIÓN (cont.)**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Procesamiento de imágenes
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01C_ProcesamientoImagenes.pdf)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01C_ProcesamientoImagenes.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01C_ProcesamientoImagenes.pptx)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo segmentación de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de transformación geometrica [[Colab]](https://colab.research.google.com/drive/1Z5ok0Cr7ynp_jCZ-DM8S-6u8DtOZfBOI)
@@ -61,10 +61,10 @@
 <hr/>
 
 ### Clase 05 Ma. 25-Aug-2026:
-* 1.2 &nbsp; **E02: EJERCICIO EN CLASES 02** [[Colab]](https://drive.google.com/file/d/1I0r4PRsB91r2YFq9rzR01VPO4XBMUCro/view?usp=sharing)
+* 1.2 &nbsp; **[ PR.E02 ] &mdash; EJERCICIO EN CLASES E02** [[Colab]](http://google.drive/osso)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/python/ConsideracionesE02.txt)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E02 [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentations/PAT01_E02_ProcesamientoImagenes.pptx)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E02 [[Colab]](https://drive.google.com/file/d/1Oq7IxHmnIl1tEgVL6V0edl3qVRft0Hjj/view?usp=sharing)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E02 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 06 Ju. 26-Mar-2026:
@@ -89,4 +89,4 @@
 ---
 
 
-Updated on 05-Aug-2026 at 21:36 by Domingo Mery
+Updated on 05-Aug-2026 at 21:39 by Domingo Mery
