@@ -5,8 +5,8 @@
 <hr/>
 
 ### Clase 01 Ma. 11-Aug-2026:
-* 1.0 &nbsp; **[ MÓDULO PR.01.A ] &mdash; INTRODUCCIÓN**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  ¿Qué es reconocimiento de patrones?
+* 1.0 &nbsp; **MÓDULO PR.01.A**
+* 1.1 &nbsp; **INTRODUCCIÓN &mdash; ¿Qué es Reconocimiento de Patrones?**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01A_EjemploIntroductorio.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
@@ -89,4 +89,4 @@
 ---
 
 
-Updated on 06-Aug-2026 at 07:01 by Domingo Mery
+Updated on 06-Aug-2026 at 07:09 by Domingo Mery
