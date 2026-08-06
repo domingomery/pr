@@ -23,8 +23,7 @@
 * > Explicación del ejercicio E01 [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PRE01_Ochos.*)
 * > Enunciado E01 [[Colab]](http://google.drive/osso)
 * > Solución E01 [[Colab]](http://google.drive/osso)
-* **&mdash; Cap 01: INTRODUCCIÓN** 
-* > **Procesamiento de Imágenes** 
+* **> Cap 01: INTRODUCCIÓN &mdash; Procesamiento de Imágenes** 
 * **&mdash; Cap 01: INTRODUCCIÓN (cont.)** 
 * > **Ejercicio en clases E02** 
 * > Explicación del ejercicio E02 [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentations/PAT01_E02_ProcesamientoImagenes.pptx)
@@ -35,4 +34,4 @@
 ---
 
 
-Updated on 06-Aug-2026 at 07:28 by Domingo Mery
+Updated on 06-Aug-2026 at 07:31 by Domingo Mery

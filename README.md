@@ -55,8 +55,7 @@
 
 ### Clase 04 Ju. 20-Aug-2026:
 * 1.0 &nbsp; **MÓDULO PR.01.C**
-* 1.1 &nbsp; **&mdash; Cap 01: INTRODUCCIÓN**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Procesamiento de Imágenes**
+* 1.1 &nbsp; **> Cap 01: INTRODUCCIÓN &mdash; Procesamiento de Imágenes**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01C_ProcesamientoImagenes.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01C_ProcesamientoImagenes.pptx)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo segmentación de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
@@ -98,4 +97,4 @@
 ---
 
 
-Updated on 06-Aug-2026 at 07:28 by Domingo Mery
+Updated on 06-Aug-2026 at 07:31 by Domingo Mery
