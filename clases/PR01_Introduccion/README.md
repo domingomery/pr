@@ -15,7 +15,7 @@
 * >> Ejemplo en Python [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
 * > **Material de apoyo para la clase** 
 * >> [+] Reconocimiento de patrones estadístico (Jain, 2009) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/Jain_StatisticalPatternRecognition_2000.pdf)
-* **[ PR.E01 ] &mdash; EJERCICIO EN CLASES E01** [[Colab]](http://google.drive/osso)
+* **[ MÓDULO PR.E01 ] &mdash; EJERCICIO EN CLASES E01** [[Colab]](http://google.drive/osso)
 * > Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PRE01_Consideraciones.txt)
 * > Explicación del ejercicio E01 [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PRE01_Ochos.*)
 * > Solución a E01 [[Colab]](http://google.drive/osso)
@@ -26,4 +26,4 @@
 ---
 
 
-Updated on 05-Aug-2026 at 21:40 by Domingo Mery
+Updated on 06-Aug-2026 at 07:01 by Domingo Mery
