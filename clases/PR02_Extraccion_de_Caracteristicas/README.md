@@ -8,7 +8,6 @@
 ### 2.3 Caracteristicas geometricas:
 * >> Pyhton: Ejemplo sobre características geométricas y momentos [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * >> Python: Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
-* >> Capítulo - Image representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
 * >> Momentos de Hu [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
 * >> Momentos de Flusser [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * >> Descriptores de Fourier [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
@@ -17,4 +16,4 @@
 ---
 
 
-Updated on 06-Aug-2026 at 07:45 by Domingo Mery
+Updated on 11-Aug-2026 at 08:23 by Domingo Mery

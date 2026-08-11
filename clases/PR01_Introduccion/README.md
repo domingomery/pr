@@ -10,7 +10,7 @@
 * >> Archivos Epstein [[Link]](http://jmail.world)
 * >> Ejercicio visión humana [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_EjercicioReconocimiento.pptx)
 * >> Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_Chihuahua_or_Muffin.pptx)
-* > **Cap 01: INTRODUCCIÓN &mdash; Metodología de Reconocimiento de Patrones?** 
+* > **Cap 01: INTRODUCCIÓN &mdash; Metodología de Reconocimiento de Patrones** 
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.*)
 * >> Ejemplo en Python: OCR (J vs. Q) [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
 * > **Material de apoyo para la clase** 
@@ -24,8 +24,8 @@
 * > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02** 
 * > **Ejercicio en clases E02** 
 * > Explicación del ejercicio E02 [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentations/PAT01_E02_ProcesamientoImagenes.pptx)
-* > Enunciado E01 [[Colab]](http://google.drive/osso)
-* > Solución E01 [[Colab]](http://google.drive/osso)
+* > Enunciado E02 [[Colab]](http://google.drive/osso)
+* > Solución E02 [[Colab]](http://google.drive/osso)
 * > **Cap 02: EXTRACCIÓN &mdash; Características Geométricas** 
 * > **Material de apoyo para la clase** 
 * > **Cap 02: EXTRACCIÓN &mdash; Segmentación de Imágenes** 
@@ -34,4 +34,4 @@
 ---
 
 
-Updated on 06-Aug-2026 at 07:45 by Domingo Mery
+Updated on 11-Aug-2026 at 08:23 by Domingo Mery
