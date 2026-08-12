@@ -3,7 +3,8 @@
 ### 0.1 Presentacion del curso:
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/PR00_PresentacionCurso.*)
 * > **Documentos adicionales** 
-* >> Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Programa_ReconocimientoPatrones2026.pdf)
+* >> Reglamento del Curso [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2026-ReglamentoCurso.pdf)
+* >> Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2026-Programa_ReconocimientoPatrones.pdf)
 * >> Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Lineamientos_uso_IA_ver_2.pdf)
 * >> Lineamientos del uso de la IA en Ingeniería UC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/IA_en_la_formacion_Escuela_ING_2026-07-31.pdf)
 * > **Bibliografía** 
@@ -18,4 +19,4 @@
 ---
 
 
-Updated on 11-Aug-2026 at 08:23 by Domingo Mery
+Updated on 12-Aug-2026 at 19:49 by Domingo Mery
