@@ -15,23 +15,25 @@
 * >> Ejemplo en Python: OCR (J vs. Q) [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
 * > **Material de apoyo para la clase** 
 * >> Reconocimiento de patrones estadístico (Jain, 2009) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/Jain_StatisticalPatternRecognition_2000.pdf)
-* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E01** 
-* > Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PRE01_Consideraciones.txt)
-* > Explicación del ejercicio E01 [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PRE01_Ochos.*)
-* > Enunciado E01 [[Colab]](http://google.drive/osso)
-* > Solución E01 [[Colab]](http://google.drive/osso)
 * > **Cap 01: INTRODUCCIÓN &mdash; Procesamiento de Imágenes** 
-* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02** 
-* > **Ejercicio en clases E02** 
-* > Explicación del ejercicio E02 [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentations/PAT01_E02_ProcesamientoImagenes.pptx)
-* > Enunciado E02 [[Colab]](http://google.drive/osso)
-* > Solución E02 [[Colab]](http://google.drive/osso)
 * > **Cap 02: EXTRACCIÓN &mdash; Características Geométricas** 
 * > **Material de apoyo para la clase** 
 * > **Cap 02: EXTRACCIÓN &mdash; Segmentación de Imágenes** 
+* > **Cap 02: EXTRACCIÓN &mdash; Características Cromáticas** 
+* > **Cap 02: EXTRACCIÓN &mdash; HoG y LBP** 
+* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E01** 
+* > Enunciado E01 [[Colab]](http://google.drive/osso)
+* > Solución E01 [[Colab]](http://google.drive/osso)
+* --------------------------------------------------------- 
+* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02** 
+* > **Ejercicio en clases E02** 
+* > Enunciado E02 [[Colab]](http://google.drive/osso)
+* > Solución E02 [[Colab]](http://google.drive/osso)
+* --------------------------------------------------------- 
+* --------------------------------------------------------- 
 ### 1.2 Que es el procesamiento y analisis de imagenes?:
 ### 1.3 Procesamiento basico de imágenes:
 ---
 
 
-Updated on 12-Aug-2026 at 19:49 by Domingo Mery
+Updated on 12-Aug-2026 at 20:01 by Domingo Mery

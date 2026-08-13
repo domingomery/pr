@@ -21,17 +21,16 @@
 * 0.0 &nbsp; **PRESENTACiÓN DEL CURSO**
 * 0.0 &nbsp; &nbsp; &nbsp; &nbsp;  ¿En qué consiste el curso?
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/PR00_PresentacionCurso.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/pptx/PR00_PresentacionCurso.pptx)
-* 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Documentos adicionales**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Reglamento del Curso [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2026-ReglamentoCurso.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2026-Programa_ReconocimientoPatrones.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Documentos adicionales**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Lineamientos_uso_IA_ver_2.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Lineamientos del uso de la IA en Ingeniería UC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/IA_en_la_formacion_Escuela_ING_2026-07-31.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Bibliografía**
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Elements of Statistical Learning (Hastie et al., 2008) [[Libro]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Elements_of_Statistical_Learning.pdf)
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Neural Networks and Deep Learning (Aggarwal, 2019) [[Libro]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2018_Book_NeuralNetworksAndDeepLearning.pdf)
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Deep Learning (Goodfellow, 2016) [[Libro]](http://www.deeplearningbook.org)
-* 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Computer Vision (Szeliski, 2010) [[Libro]](http://szeliski.org/Book/)
-* 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Computer Vision for X-ray Testing (Mery, 2015) [[Libro]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2015_ComputerVisionXrays_DMery.pdf)
+* 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Computer Vision (Szeliski, 2022) [[Libro]](http://szeliski.org/Book/)
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Computer Vision for X-ray Testing, Second Edition (Mery, Pieringer, 2021) [[Libro]](https://link.springer.com/book/10.1007/978-3-030-56769-9)
 * 0.1 &nbsp; ---------------------------------------------------------
 * 1.0 &nbsp; **MÓDULO PR.01.B**
@@ -43,15 +42,6 @@
 <hr/>
 
 ### Clase 03 Ma. 18-Aug-2026:
-* 1.0 &nbsp; **MÓDULO PR.E01**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E01**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PRE01_Consideraciones.txt)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E01 [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PRE01_Ochos.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PRE01_Ochos.pptx)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
-<hr/>
-
-### Clase 04 Ju. 20-Aug-2026:
 * 1.0 &nbsp; **MÓDULO PR.01.C**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Procesamiento de Imágenes**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01C_ProcesamientoImagenes.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01C_ProcesamientoImagenes.pptx)
@@ -63,17 +53,7 @@
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización de histograma [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_HistogramVisualization.m)
 <hr/>
 
-### Clase 05 Ma. 25-Aug-2026:
-* 1.0 &nbsp; **MÓDULO PR.E01**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/python/ConsideracionesE02.txt)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E02 [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentations/PAT01_E02_ProcesamientoImagenes.pptx)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
-<hr/>
-
-### Clase 06 Ju. 26-Mar-2026:
+### Clase 04 Ju. 20-Aug-2026:
 * 1.0 &nbsp; **MÓDULO PR.02.A**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Características Geométricas**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR02A_CaracteristicasGeometricas.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR02A_CaracteristicasGeometricas.pptx)
@@ -85,14 +65,53 @@
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Descriptores de Fourier [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
 <hr/>
 
-### Clase 07 Ma. 31-Mar-2026:
+### Clase 05 Ma. 25-Aug-2026:
 * 1.0 &nbsp; **MÓDULO PR.02.B**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Segmentación de Imágenes**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR02B_Segmentacion.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR02B_Segmentacion.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos de morfología [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
+<hr/>
+
+### Clase 06 Ju. 26-Mar-2026:
+* 1.0 &nbsp; **MÓDULO PR.02.C**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Características Cromáticas**
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR02B_Segmentacion.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR02B_Segmentacion.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
+<hr/>
+
+### Clase 07 Ma. 31-Mar-2026:
+* 1.0 &nbsp; **MÓDULO PR.02.D**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; HoG y LBP**
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR02B_Segmentacion.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR02B_Segmentacion.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
+<hr/>
+
+### Clase 08 Ma. 07-Apr-2026:
+* 1.0 &nbsp; **MÓDULO PR.E01**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E01**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; ---------------------------------------------------------
+* 1.0 &nbsp; **MÓDULO PR.E02**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; ---------------------------------------------------------
+* 2.0 &nbsp; **MÓDULO PR.E03**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; ---------------------------------------------------------
+* 2.0 &nbsp; **MÓDULO PR.E04**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Ejercicio en Clases E04**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E04**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E04 [[Colab]](http://google.drive/osso)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E04 [[Colab]](http://google.drive/osso)
 ---
 
 
-Updated on 12-Aug-2026 at 19:49 by Domingo Mery
+Updated on 12-Aug-2026 at 20:01 by Domingo Mery
