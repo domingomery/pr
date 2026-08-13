@@ -22,9 +22,9 @@
 * 0.0 &nbsp; &nbsp; &nbsp; &nbsp;  ¿En qué consiste el curso?
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/PR00_PresentacionCurso.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/pptx/PR00_PresentacionCurso.pptx)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Reglamento del Curso [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2026-ReglamentoCurso.pdf)
-* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2026-Programa_ReconocimientoPatrones.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/PR00_Programa.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Documentos adicionales**
-* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Lineamientos_uso_IA_ver_2.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Lineamientos_uso_IA_en_el_DCC_2026_2.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Lineamientos del uso de la IA en Ingeniería UC [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/IA_en_la_formacion_Escuela_ING_2026-07-31.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Bibliografía**
 * 0.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Elements of Statistical Learning (Hastie et al., 2008) [[Libro]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/Elements_of_Statistical_Learning.pdf)
@@ -114,4 +114,4 @@
 ---
 
 
-Updated on 12-Aug-2026 at 20:01 by Domingo Mery
+Updated on 13-Aug-2026 at 10:19 by Domingo Mery
