@@ -54,64 +54,64 @@
 <hr/>
 
 ### Clase 04 Ju. 20-Aug-2026:
-* 1.0 &nbsp; **MÓDULO PR.02.A**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Características Geométricas**
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR02A_CaracteristicasGeometricas.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR02A_CaracteristicasGeometricas.pptx)
+* 2.0 &nbsp; **MÓDULO PR.02.A**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Características Geométricas**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02A_CaracteristicasGeometricas.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02A_CaracteristicasGeometricas.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo sobre características geométricas y momentos [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Flusser [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Descriptores de Fourier [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
 <hr/>
 
 ### Clase 05 Ma. 25-Aug-2026:
-* 1.0 &nbsp; **MÓDULO PR.02.B**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Segmentación de Imágenes**
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR02B_Segmentacion.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR02B_Segmentacion.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos de morfología [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
+* 2.0 &nbsp; **MÓDULO PR.02.B**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Segmentación de Imágenes**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02B_Segmentacion.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02B_Segmentacion.pptx)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos de morfología [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
 <hr/>
 
 ### Clase 06 Ju. 26-Mar-2026:
-* 1.0 &nbsp; **MÓDULO PR.02.C**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Características Cromáticas**
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR02B_Segmentacion.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR02B_Segmentacion.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
+* 2.0 &nbsp; **MÓDULO PR.02.C**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Características Cromáticas**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02B_Segmentacion.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02B_Segmentacion.pptx)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
 <hr/>
 
 ### Clase 07 Ma. 31-Mar-2026:
-* 1.0 &nbsp; **MÓDULO PR.02.D**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; HoG y LBP**
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR02B_Segmentacion.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR02B_Segmentacion.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
+* 2.0 &nbsp; **MÓDULO PR.02.D**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; HoG y LBP**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02B_Segmentacion.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02B_Segmentacion.pptx)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
 <hr/>
 
 ### Clase 08 Ma. 07-Apr-2026:
-* 1.0 &nbsp; **MÓDULO PR.E01**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E01**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; ---------------------------------------------------------
-* 1.0 &nbsp; **MÓDULO PR.E02**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; ---------------------------------------------------------
+* 2.0 &nbsp; **MÓDULO PR.E01**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E01**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; ---------------------------------------------------------
+* 2.0 &nbsp; **MÓDULO PR.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO PR.E03**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; ---------------------------------------------------------
+* 2.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO PR.E04**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Ejercicio en Clases E04**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E04**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E04 [[Colab]](http://google.drive/osso)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E04 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Ejercicio en Clases E04**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E04**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E04 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E04 [[Colab]](http://google.drive/osso)
 ---
 
 
-Updated on 13-Aug-2026 at 10:19 by Domingo Mery
+Updated on 16-Aug-2026 at 11:17 by Domingo Mery

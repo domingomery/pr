@@ -16,24 +16,9 @@
 * > **Material de apoyo para la clase** 
 * >> Reconocimiento de patrones estadístico (Jain, 2009) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/Jain_StatisticalPatternRecognition_2000.pdf)
 * > **Cap 01: INTRODUCCIÓN &mdash; Procesamiento de Imágenes** 
-* > **Cap 02: EXTRACCIÓN &mdash; Características Geométricas** 
-* > **Material de apoyo para la clase** 
-* > **Cap 02: EXTRACCIÓN &mdash; Segmentación de Imágenes** 
-* > **Cap 02: EXTRACCIÓN &mdash; Características Cromáticas** 
-* > **Cap 02: EXTRACCIÓN &mdash; HoG y LBP** 
-* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E01** 
-* > Enunciado E01 [[Colab]](http://google.drive/osso)
-* > Solución E01 [[Colab]](http://google.drive/osso)
-* --------------------------------------------------------- 
-* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02** 
-* > **Ejercicio en clases E02** 
-* > Enunciado E02 [[Colab]](http://google.drive/osso)
-* > Solución E02 [[Colab]](http://google.drive/osso)
-* --------------------------------------------------------- 
-* --------------------------------------------------------- 
 ### 1.2 Que es el procesamiento y analisis de imagenes?:
 ### 1.3 Procesamiento basico de imágenes:
 ---
 
 
-Updated on 13-Aug-2026 at 10:19 by Domingo Mery
+Updated on 16-Aug-2026 at 11:17 by Domingo Mery
