@@ -60,9 +60,9 @@
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo sobre características geométricas y momentos [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Flusser [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Descriptores de Fourier [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/Hu_Moments.pdf)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Flusser [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/Flusser_Moments.pdf)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Descriptores de Fourier [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/Fourier_Descriptors.pdf)
 <hr/>
 
 ### Clase 05 Ma. 25-Aug-2026:
@@ -77,15 +77,36 @@
 ### Clase 06 Ju. 26-Mar-2026:
 * 2.0 &nbsp; **MÓDULO PR.02.C**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Características Cromáticas**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02B_Segmentacion.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02B_Segmentacion.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02C_CaracteristicasColor.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02C_CaracteristicasColor.pptx)
+* 2.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Segmentación simple a color [[Colab]](https://colab.research.google.com/drive/1gfSdlVgzd3abygf8XB0I2F62rpzlh8SK)
+* 2.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Cómo leer imagenes a color [[Colab]](https://colab.research.google.com/drive/1JqHCnOiZb_KC7DPh1vF9vbLrFCc8pyDf)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo sobre reconocimiento de texturas usando Haralick y Gabor [[Colab]](https://drive.google.com/file/d/1QqAJ0Ktd3kzvaCh_3KS0tvPRX5rvBXDZ/view?usp=sharing)
+* 2.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de mejoramiento de imagen a color oscura [[Colab]](https://colab.research.google.com/drive/1cSjA9nThCXbuO2zb97zJpcMP8sqNAqE8)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Características de textura de Haralick [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/Haralick_Textures.pdf)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Características de Gabor [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/Manjunath_GaborFeatures1996.pdf)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Aplicación de las características de Gabor [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/Gabor_Application.pdf)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video experimento con gatos (1/2) [[Video]](https://youtu.be/IOHayh06LJ4)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Comparación de características de textura [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/Randen_ComparativeTextures.pdf)
 <hr/>
 
 ### Clase 07 Ma. 31-Mar-2026:
 * 2.0 &nbsp; **MÓDULO PR.02.D**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; HoG y LBP**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02B_Segmentacion.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02B_Segmentacion.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; HoG, LBP, SIFT**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02D_HOG_LBP.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02D_HOG_LBP.pptx)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/HoG_DalalTriggs.pdf)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Implementación de HoG en OpenCV [[python]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Local Binary Patterns (LBP) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/LBP_faces.pdf)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Lectura complementaria sobre LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  SIFT [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/Lowe_SIFT.pdf)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/Mery_CrossingLineProfiles.pdf)
 <hr/>
 
 ### Clase 08 Ma. 07-Apr-2026:
@@ -114,4 +135,4 @@
 ---
 
 
-Updated on 16-Aug-2026 at 11:17 by Domingo Mery
+Updated on 16-Aug-2026 at 14:05 by Domingo Mery
