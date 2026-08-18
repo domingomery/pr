@@ -5,20 +5,20 @@
 * > **Cap 02: EXTRACCIÓN &mdash; Segmentación de Imágenes** 
 * > **Cap 02: EXTRACCIÓN &mdash; Características Cromáticas** 
 * > **Cap 02: EXTRACCIÓN &mdash; HoG, LBP, SIFT** 
-* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio E02** 
-* > **Ejercicio E02** 
-* > Enunciado E02 [[Colab]](http://google.drive/osso)
-* > Solución E02 [[Colab]](http://google.drive/osso)
+* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02** 
+* > **Ejercicio PR.E02** 
+* > Enunciado PR.E02 [[Colab]](http://google.drive/osso)
+* > Solución PR.E02 [[Colab]](http://google.drive/osso)
 * --------------------------------------------------------- 
-* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio E02** 
-* > **Ejercicio E02** 
-* > Enunciado E02 [[Colab]](http://google.drive/osso)
-* > Solución E02 [[Colab]](http://google.drive/osso)
+* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02** 
+* > **Ejercicio PR.E02** 
+* > Enunciado PR.E02 [[Colab]](http://google.drive/osso)
+* > Solución PR.E02 [[Colab]](http://google.drive/osso)
 * --------------------------------------------------------- 
-* > **Cap 02: EXTRACCIÓN &mdash; Ejercicio E04** 
-* > **Ejercicio E04** 
-* > Enunciado E04 [[Colab]](http://google.drive/osso)
-* > Solución E04 [[Colab]](http://google.drive/osso)
+* > **Cap 02: EXTRACCIÓN &mdash; Ejercicio PR.E04** 
+* > **Ejercicio PR.E04** 
+* > Enunciado PR.E04 [[Colab]](http://google.drive/osso)
+* > Solución PR.E04 [[Colab]](http://google.drive/osso)
 ### 2.2 Segmentacion de imágenes:
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02A_CaracteristicasGeometricas.*)
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02B_Segmentacion.*)
@@ -61,4 +61,4 @@
 ---
 
 
-Updated on 18-Aug-2026 at 07:43 by Domingo Mery
+Updated on 18-Aug-2026 at 08:18 by Domingo Mery

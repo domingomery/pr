@@ -53,9 +53,9 @@
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización de histograma [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_HistogramVisualization.m)
 * 1.2 &nbsp; ---------------------------------------------------------
 * 1.2 &nbsp; **MÓDULO PR.E01**
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio E01**
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](https://drive.google.com/file/d/1ggQHTkUjoNWpyTUfY6mlc0wvGbSME8uW/view?usp=sharing)
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E01**
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E01 [[Colab]](https://drive.google.com/file/d/1ggQHTkUjoNWpyTUfY6mlc0wvGbSME8uW/view?usp=sharing)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E01 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 04 Ju. 20-Aug-2026:
@@ -115,23 +115,23 @@
 
 ### Clase 08 Ma. 07-Apr-2026:
 * 2.0 &nbsp; **MÓDULO PR.E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E02 [[Colab]](http://google.drive/osso)
 * 2.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO PR.E03**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E02 [[Colab]](http://google.drive/osso)
 * 2.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO PR.E04**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Ejercicio E04**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio E04**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E04 [[Colab]](http://google.drive/osso)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E04 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Ejercicio PR.E04**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E04**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E04 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E04 [[Colab]](http://google.drive/osso)
 ---
 
 
-Updated on 18-Aug-2026 at 07:43 by Domingo Mery
+Updated on 18-Aug-2026 at 08:18 by Domingo Mery
