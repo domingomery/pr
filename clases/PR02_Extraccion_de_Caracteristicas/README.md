@@ -5,22 +5,18 @@
 * > **Cap 02: EXTRACCIÓN &mdash; Segmentación de Imágenes** 
 * > **Cap 02: EXTRACCIÓN &mdash; Características Cromáticas** 
 * > **Cap 02: EXTRACCIÓN &mdash; HoG, LBP, SIFT** 
-* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E01** 
-* > Enunciado E01 [[Colab]](http://google.drive/osso)
-* > Solución E01 [[Colab]](http://google.drive/osso)
-* --------------------------------------------------------- 
-* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02** 
-* > **Ejercicio en clases E02** 
+* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio E02** 
+* > **Ejercicio E02** 
 * > Enunciado E02 [[Colab]](http://google.drive/osso)
 * > Solución E02 [[Colab]](http://google.drive/osso)
 * --------------------------------------------------------- 
-* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02** 
-* > **Ejercicio en clases E02** 
+* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio E02** 
+* > **Ejercicio E02** 
 * > Enunciado E02 [[Colab]](http://google.drive/osso)
 * > Solución E02 [[Colab]](http://google.drive/osso)
 * --------------------------------------------------------- 
-* > **Cap 02: EXTRACCIÓN &mdash; Ejercicio en Clases E04** 
-* > **Ejercicio en clases E04** 
+* > **Cap 02: EXTRACCIÓN &mdash; Ejercicio E04** 
+* > **Ejercicio E04** 
 * > Enunciado E04 [[Colab]](http://google.drive/osso)
 * > Solución E04 [[Colab]](http://google.drive/osso)
 ### 2.2 Segmentacion de imágenes:
@@ -55,7 +51,6 @@
 * >> Python: Ejemplo de detección de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
 * >> Python: Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
 * >> Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
-* >> Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
 * >> Python: Ejemplo de intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
 * >> Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/HoG_DalalTriggs.pdf)
 * >> Implementación de HoG en OpenCV [[python]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
@@ -66,4 +61,4 @@
 ---
 
 
-Updated on 16-Aug-2026 at 14:05 by Domingo Mery
+Updated on 18-Aug-2026 at 07:43 by Domingo Mery

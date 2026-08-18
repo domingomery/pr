@@ -51,6 +51,11 @@
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de ecualización de histograma [[Colab]](https://colab.research.google.com/drive/1yYoH_UcDlqCXD-EMAI6moU9m7G7dScJ0)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos con máscaras (convolución con kernels) [[Colab]](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización de histograma [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_HistogramVisualization.m)
+* 1.2 &nbsp; ---------------------------------------------------------
+* 1.2 &nbsp; **MÓDULO PR.E01**
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio E01**
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](https://drive.google.com/file/d/1ggQHTkUjoNWpyTUfY6mlc0wvGbSME8uW/view?usp=sharing)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 04 Ju. 20-Aug-2026:
@@ -98,7 +103,6 @@
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
-* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/HoG_DalalTriggs.pdf)
@@ -110,29 +114,24 @@
 <hr/>
 
 ### Clase 08 Ma. 07-Apr-2026:
-* 2.0 &nbsp; **MÓDULO PR.E01**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E01**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](http://google.drive/osso)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
-* 2.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO PR.E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
 * 2.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO PR.E03**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio en Clases E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
 * 2.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO PR.E04**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Ejercicio en Clases E04**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E04**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Ejercicio E04**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio E04**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E04 [[Colab]](http://google.drive/osso)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E04 [[Colab]](http://google.drive/osso)
 ---
 
 
-Updated on 16-Aug-2026 at 14:05 by Domingo Mery
+Updated on 18-Aug-2026 at 07:43 by Domingo Mery
