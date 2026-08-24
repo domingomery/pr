@@ -3,13 +3,13 @@
 ### 2.1 Introduccion:
 * > **Cap 02: EXTRACCIÓN &mdash; Características Geométricas** 
 * > **Cap 02: EXTRACCIÓN &mdash; Segmentación de Imágenes** 
-* > **Cap 02: EXTRACCIÓN &mdash; Características Cromáticas** 
-* > **Cap 02: EXTRACCIÓN &mdash; HoG, LBP, SIFT** 
+* --------------------------------------------------------- 
 * > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02** 
 * > **Ejercicio PR.E02** 
-* > Enunciado PR.E02 [[Colab]](http://google.drive/osso)
+* > Enunciado PR.E02 [[Colab]](https://drive.google.com/file/d/1b2e4flvUzb-NenvIdCkZ40V4yCysDSfq/view?usp=sharing)
 * > Solución PR.E02 [[Colab]](http://google.drive/osso)
-* --------------------------------------------------------- 
+* > **Cap 02: EXTRACCIÓN &mdash; Características Cromáticas** 
+* > **Cap 02: EXTRACCIÓN &mdash; HoG, LBP, SIFT** 
 * > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02** 
 * > **Ejercicio PR.E02** 
 * > Enunciado PR.E02 [[Colab]](http://google.drive/osso)
@@ -61,4 +61,4 @@
 ---
 
 
-Updated on 18-Aug-2026 at 08:18 by Domingo Mery
+Updated on 24-Aug-2026 at 10:58 by Domingo Mery

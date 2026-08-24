@@ -77,6 +77,12 @@
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos de morfología [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
+* 2.1 &nbsp; ---------------------------------------------------------
+* 2.0 &nbsp; **MÓDULO PR.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E02 [[Colab]](https://drive.google.com/file/d/1b2e4flvUzb-NenvIdCkZ40V4yCysDSfq/view?usp=sharing)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E02 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 06 Ju. 26-Mar-2026:
@@ -114,12 +120,6 @@
 <hr/>
 
 ### Clase 08 Ma. 07-Apr-2026:
-* 2.0 &nbsp; **MÓDULO PR.E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E02 [[Colab]](http://google.drive/osso)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E02 [[Colab]](http://google.drive/osso)
-* 2.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO PR.E03**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E02**
@@ -134,4 +134,4 @@
 ---
 
 
-Updated on 18-Aug-2026 at 08:18 by Domingo Mery
+Updated on 24-Aug-2026 at 10:58 by Domingo Mery
