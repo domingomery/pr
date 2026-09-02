@@ -85,7 +85,7 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E02 [[Colab]](http://google.drive/osso)
 <hr/>
 
-### Clase 06 Ju. 26-Mar-2026:
+### Clase 06 Ju. 27-Aug-2026:
 * 2.0 &nbsp; **MÓDULO PR.02.C**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Características Cromáticas**
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02C_CaracteristicasColor.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02C_CaracteristicasColor.pptx)
@@ -102,7 +102,7 @@
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Comparación de características de textura [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/Randen_ComparativeTextures.pdf)
 <hr/>
 
-### Clase 07 Ma. 31-Mar-2026:
+### Clase 07 Ma. 01-Sep-2026:
 * 2.0 &nbsp; **MÓDULO PR.02.D**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; HoG, LBP, SIFT**
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02D_HoG_LBP.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02D_HoG_LBP.pptx)
@@ -119,7 +119,7 @@
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/extras/Mery_CrossingLineProfiles.pdf)
 <hr/>
 
-### Clase 08 Ma. 07-Apr-2026:
+### Clase 08 Ju. 03-Sep-2026:
 * 2.0 &nbsp; **MÓDULO PR.E03**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E02**
@@ -134,4 +134,4 @@
 ---
 
 
-Updated on 02-Sep-2026 at 08:20 by Domingo Mery
+Updated on 02-Sep-2026 at 12:33 by Domingo Mery
