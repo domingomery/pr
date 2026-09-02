@@ -123,15 +123,15 @@
 * 2.0 &nbsp; **MÓDULO PR.E03**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E03 [[Colab]](https://drive.google.com/file/d/1Bh-857mi0oqspx1Hhycs7KvPhOwb_BMo/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E02 [[Colab]](http://google.drive/osso)
 * 2.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO PR.E04**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Ejercicio PR.E04**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E04**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E04 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E04 [[Colab]](https://drive.google.com/file/d/1TtElEerPx_TgU51s4PpD8KBSWX49ygJf/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E04 [[Colab]](http://google.drive/osso)
 ---
 
 
-Updated on 31-Aug-2026 at 17:50 by Domingo Mery
+Updated on 02-Sep-2026 at 08:20 by Domingo Mery
