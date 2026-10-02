@@ -8,8 +8,8 @@
 * >> Datos usados en el ejemplo [[Carpeta]](https://github.com/domingomery/pr/tree/main/clases/PR01_Introduccion/datos)
 * >> Visualización de segementación [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_showSegmentation.m)
 * >> Archivos Epstein [[Link]](http://jmail.world)
-* >> Ejercicio visión humana [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_EjercicioReconocimiento.pptx)
-* >> Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_Chihuahua_or_Muffin.pptx)
+* >> Ejercicio visión humana [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01A_EjercicioReconocimiento.pptx)
+* >> Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01A_Chihuahua_or_Muffin.pptx)
 * > **Cap. 01: INTRODUCCIÓN &mdash; Metodología de Reconocimiento de Patrones** 
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.*)
 * >> Ejemplo en Python: OCR (J vs. Q) [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
@@ -21,4 +21,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 17:20 by Domingo Mery
+Updated on 02-Oct-2026 at 17:44 by Domingo Mery

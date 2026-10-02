@@ -13,13 +13,13 @@
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Datos usados en el ejemplo [[Carpeta]](https://github.com/domingomery/pr/tree/main/clases/PR01_Introduccion/datos)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización de segementación [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_showSegmentation.m)
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Archivos Epstein [[Link]](http://jmail.world)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejercicio visión humana [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_EjercicioReconocimiento.pptx)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_Chihuahua_or_Muffin.pptx)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejercicio visión humana [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01A_EjercicioReconocimiento.pptx)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01A_Chihuahua_or_Muffin.pptx)
 <hr/>
 
 ### Clase 02 Ju. 13-Aug-2026:
 * 0.0 &nbsp; **MÓDULO PR.00.A**
-* 0.0 &nbsp; **Cap. 00: PRESENTACIÓN DEL CURSO**
+* 0.0 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 00: PRESENTACIÓN DEL CURSO**
 * 0.0 &nbsp; &nbsp; &nbsp; &nbsp;  ¿En qué consiste el curso?
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/PR00_PresentacionCurso.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/presentaciones/pptx/PR00_PresentacionCurso.pptx)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Reglamento del Curso [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR00_Lineas_Generales/extras/2026-ReglamentoCurso.pdf)
@@ -51,12 +51,12 @@
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de transformación geometrica [[Colab]](https://colab.research.google.com/drive/1Z5ok0Cr7ynp_jCZ-DM8S-6u8DtOZfBOI)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de ecualización de histograma [[Colab]](https://colab.research.google.com/drive/1yYoH_UcDlqCXD-EMAI6moU9m7G7dScJ0)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos con máscaras (convolución con kernels) [[Colab]](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización de histograma [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01_HistogramVisualization.m)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización de histograma [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/codigos/PR01C_HistogramVisualization.m)
 * 1.2 &nbsp; ---------------------------------------------------------
 * 1.2 &nbsp; **MÓDULO PR.E01**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 01: INTRODUCCIÓN &mdash; Ejercicio PR.E01**
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E01 [[Colab]](https://drive.google.com/file/d/1ggQHTkUjoNWpyTUfY6mlc0wvGbSME8uW/view?usp=sharing)
-* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E01 [[Colab]](http://google.drive/osso)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E01 [[Colab]](https://drive.google.com/file/d/1ggQHTkUjoNWpyTUfY6mlc0wvGbSME8uW/view?usp=sharing)
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E01 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 04 Ju. 20-Aug-2026:
@@ -79,11 +79,11 @@
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos de morfología [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
 * 2.1 &nbsp; ---------------------------------------------------------
-* 2.0 &nbsp; **MÓDULO PR.E02**
+* 2.1 &nbsp; **MÓDULO PR.E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E02 [[Colab]](https://drive.google.com/file/d/1b2e4flvUzb-NenvIdCkZ40V4yCysDSfq/view?usp=sharing)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E02 [[Colab]](https://drive.google.com/file/d/1b2e4flvUzb-NenvIdCkZ40V4yCysDSfq/view?usp=sharing)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E02 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 06 Ju. 27-Aug-2026:
@@ -124,14 +124,14 @@
 * 2.0 &nbsp; **MÓDULO PR.E03**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E03 [[Colab]](https://drive.google.com/file/d/1Bh-857mi0oqspx1Hhycs7KvPhOwb_BMo/view?usp=sharing)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E03 [[Colab]](https://drive.google.com/file/d/1Bh-857mi0oqspx1Hhycs7KvPhOwb_BMo/view?usp=sharing)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E02 [[Colab]](http://google.drive/osso)
 * 2.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO PR.E04**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 02: EXTRACCIÓN &mdash; Ejercicio PR.E04**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E04**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E04 [[Colab]](https://drive.google.com/file/d/1TtElEerPx_TgU51s4PpD8KBSWX49ygJf/view?usp=sharing)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E04 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E04 [[Colab]](https://drive.google.com/file/d/1TtElEerPx_TgU51s4PpD8KBSWX49ygJf/view?usp=sharing)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E04 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 09 Ma. 06-Oct-2026:
@@ -150,13 +150,13 @@
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03B_PCA.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/pptx/PR03B_PCA.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de reconocimiento facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Principal components analysis PCA [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/matlab/PAT03_PCAidea.m)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Principal components analysis PCA [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/matlab/PR03B_PCAidea.m)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Matlab: Idea básica de PCA para dos variables [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
 * 3.4 &nbsp; ---------------------------------------------------------
 * 3.4 &nbsp; **MÓDULO PR.03.C**
 * 3.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: SELECCIÓN  &mdash;  Estrategias**
-* 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Esquema general con selección de características [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
+* 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Esquema general con selección de características [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03C_GeneralSchema.pdf)
 * 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Bateria de ejemplos de selección de características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
 * 3.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  How to perform feature selection with numerical input data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
@@ -166,10 +166,11 @@
 
 ### Clase 11 Ma. 13-Oct-2026:
 * 4.0 &nbsp; **MÓDULO PR.04.A**
-* 4.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Clasificadores básicos**
-* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  KNN, Dmin, Bayes, LDA, QDA, Mahalanobis, Trees [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PAT04_ClasificadoresBasicos.pptx)
+* 4.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Clasificadores básicos (KNN, Dmin, LDA, QDA, etc.)**
+* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04A_ClasificadoresBasicos.pptx)
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1u_Xl7JYxhBxtYci8Kz8iyQf8X3F7CmLl/view?usp=sharing)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1-iQyTfsxiFZXSw5Dlw0te9W6grJZde8u/view?usp=sharing)
@@ -178,36 +179,38 @@
 ### Clase 12 Ju. 15-Oct-2026:
 * 4.3 &nbsp; **MÓDULO PR.04.B**
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Redes neuronales**
-* 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Redes neuronales [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PAT04_RedesNeuronales.pptx)
-* 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
+* 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04B_RedesNeuronales.pptx)
+* 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04B_BackPropagation.pdf)
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificador basado en Redes Neuornales (from skratch) [[Colab]](https://drive.google.com/file/d/1Y4FYNh4thmTSxDv66tQy7bUm754x8GdN/view?usp=sharing)
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificador basado en Redes Neuornales [[Colab]](https://drive.google.com/file/d/1p0aN_-DAc5FoYO5LvIMrWVDe7C4RKTTr/view?usp=sharing)
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo NN en MNIST con pytorch [[Colab]](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 <hr/>
 
 ### Clase 13 Ma. 20-Oct-2026:
 * 4.4 &nbsp; **MÓDULO PR.04.C**
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Support vector machines**
-* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Introducción a SVM [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PAT04_SVM.pptx)
-* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teroía sobre SVM [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PAT04_SVM_new.pdf)
-* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
-* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
-* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Tutorial de SVM en python [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
+* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Introducción a SVM [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04C_SVM.pptx)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
+* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teroía sobre SVM [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04C_SVM_new.pdf)
+* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04C_SVM_Theory.pdf)
+* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/papers/PR04C_SupportVectorMachines.pdf)
+* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Tutorial de SVM en python [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 <hr/>
 
 ### Clase 14 Ju. 22-Oct-2026:
 * 4.6 &nbsp; **MÓDULO PR.04.D**
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Clustering y Bag of words**
-* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clustering y Bag of Visual Words [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PAT05_Clustering.pptx)
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04D_Clustering.pptx)
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
 <hr/>
 
 ### Clase 15 Ma. 27-Oct-2026:
 * 4.6 &nbsp; **MÓDULO PR.04.E**
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Deep Learning**
-* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
+* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04E_DeepLearning.pptx)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (detección de defectos) [[Colab]](https://drive.google.com/file/d/1g5hjIdQW0q-xH6g0a2uCaRTET0ngEIyi)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (detección de covid) [[Colab]](https://drive.google.com/file/d/1w1TzZQaN7d3CyfAV7fUklRXdSPTv3Dfh)
@@ -219,28 +222,70 @@
 ### Clase 16 Ju. 29-Oct-2026:
 * 5.0 &nbsp; **MÓDULO PR.05.A**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Métricas de Desempeño**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Introducción**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Qué es evaluación de desempeño? [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PAT05_EsquemaGeneral.pptx)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Qué es evaluación de desempeño? [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PR05A_EsquemaGeneral.pptx)
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Métricas**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Performance (matriz de confusión, sistemas biométricos) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PAT05_Performance.pptx)
-* 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
-* 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo de AdaFace y métricas de evaluación [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Performance (matriz de confusión, sistemas biométricos) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PR05A_Performance.pptx)
+* 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python :Ejemplo de AdaFace y métricas de evaluación [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
+* 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PR05A_Understanding-Biometric-Performance-Evaluation.pdf)
 <hr/>
 
 ### Clase 17 Ma. 03-Nov-2026:
 * 5.3 &nbsp; **MÓDULO PR.05.B**
-* 5.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Estimación de metricas**
-* 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones Prácticas [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PAT05_ConsideracionesPracticas.pptx)
+* 5.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Estimación de metricas**
+* 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PR05B_ConsideracionesPracticas.pptx)
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Estimación de Accuracy [[Colab]](https://drive.google.com/file/d/1-Lj0ggk6ERQnbDu7gV2DQ3n9zdV8W0Yf/view?usp=sharing)
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Aspectos practicos**
-* 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Aspectos prácticos [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
+* 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Aspectos prácticos [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PR05B_ModelSelector.pdf)
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Selector de Modelos [[Colab]](https://drive.google.com/file/d/1Fnbnda8AGgdP5fXfIv1B_hvrRM9sPCXv/view?usp=sharing)
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/papers/NG-MLY01_13.pdf)
 <hr/>
 
 ### Clase 18 Ju. 05-Nov-2026:
-* 5.4 &nbsp; **AYUDANTÍA**
+* 3.0 &nbsp; **MÓDULO PR.E05**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E05**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E05**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E05 [[Colab]](http://google.drive/osso)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E05 [[Colab]](http://google.drive/osso)
+* 3.1 &nbsp; ---------------------------------------------------------
+* 3.0 &nbsp; **MÓDULO PR.E06**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E06**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E06**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E06 [[Colab]](http://google.drive/osso)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E06 [[Colab]](http://google.drive/osso)
+* 3.1 &nbsp; ---------------------------------------------------------
+* 4.0 &nbsp; **MÓDULO PR.E07**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E07**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E07**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E07 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E07 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; ---------------------------------------------------------
+* 4.0 &nbsp; **MÓDULO PR.E08**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E08**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E08**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E08 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E08 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; ---------------------------------------------------------
+* 4.0 &nbsp; **MÓDULO PR.E09**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E09**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E09**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E09 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E09 [[Colab]](http://google.drive/osso)
+* 5.1 &nbsp; ---------------------------------------------------------
+* 5.1 &nbsp; **MÓDULO PR.E10**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E10**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E10**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E10 [[Colab]](http://google.drive/osso)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E10 [[Colab]](http://google.drive/osso)
+* 5.1 &nbsp; ---------------------------------------------------------
+* 5.1 &nbsp; **MÓDULO PR.E11**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E11**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E11**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E11 [[Colab]](http://google.drive/osso)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E11 [[Colab]](http://google.drive/osso)
+* 5.1 &nbsp; ---------------------------------------------------------
 ---
 
 
-Updated on 02-Oct-2026 at 17:20 by Domingo Mery
+Updated on 02-Oct-2026 at 17:44 by Domingo Mery
