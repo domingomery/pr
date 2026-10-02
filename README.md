@@ -236,7 +236,7 @@
 <hr/>
 
 ### Clase 17 Ju. 05-Nov-2026:
-* 4.6 &nbsp; **AYUDANTIA**
+* 4.6 &nbsp; **AYUDANTIA INTERROGACIÓN I2**
 <hr/>
 
 ### Clase 18 Ma. 10-Nov-2026:
@@ -297,8 +297,8 @@
 <hr/>
 
 ### Clase 23 Ju. 26-Nov-2026:
-* 5.1 &nbsp; **AYUDANTIA**
+* 5.1 &nbsp; **AYUDANTIA EXAMEN**
 ---
 
 
-Updated on 02-Oct-2026 at 18:11 by Domingo Mery
+Updated on 02-Oct-2026 at 18:21 by Domingo Mery
