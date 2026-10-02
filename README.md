@@ -131,7 +131,15 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E04**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E04 [[Colab]](https://drive.google.com/file/d/1TtElEerPx_TgU51s4PpD8KBSWX49ygJf/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E04 [[Colab]](http://google.drive/osso)
+<hr/>
+
+### Clase 09 Ju. 01-Oct-2026:
+* 3.0 &nbsp; **SELECCIÓN Y TRANSFORMACIÓN DE CARACTERISTICAS**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Selección (Fisher, Clean, SFS, Exhaustiva, Branch and Bound) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PAT03_SeleccionCaracteristicas.pptx)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Apuntes sobre la selección de características [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Introducción a la selección de características [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de selección de características [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
 ---
 
 
-Updated on 02-Sep-2026 at 12:33 by Domingo Mery
+Updated on 02-Oct-2026 at 16:35 by Domingo Mery
