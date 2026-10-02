@@ -8,7 +8,7 @@
 * >> Python: Ejemplo de selección de características [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
 * > **Material de apoyo para la clase** 
 ### 3.3 Algoritmos de transformacion:
-* > **Cap. 03: Algoritmos de transformación de características (PCA)** 
+* > **Cap. 03: SELECCIÓN  &mdash;  Transformación de características (PCA)** 
 * >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03B_PCA.*)
 * >> Python: Ejemplo de reconocimiento facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
 * > **Material de apoyo para la clase** 
@@ -18,7 +18,7 @@
 ### 3.4 Estrategias de seleccion y transformacion:
 * --------------------------------------------------------- 
 * **MÓDULO PR.03.C** 
-* > **Cap. 03: Estrategias de selección y transformación** 
+* > **Cap. 03: SELECCIÓN  &mdash;  Estrategias** 
 * >> Esquema general con selección de características [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
 * >> Python: Bateria de ejemplos de selección de características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
 * > **Material de apoyo para la clase** 
@@ -28,4 +28,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 16:50 by Domingo Mery
+Updated on 02-Oct-2026 at 17:17 by Domingo Mery
