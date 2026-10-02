@@ -133,13 +133,15 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E04 [[Colab]](http://google.drive/osso)
 <hr/>
 
-### Clase 09 Ju. 01-Oct-2026:
-* 3.0 &nbsp; **SELECCIÓN Y TRANSFORMACIÓN DE CARACTERISTICAS**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Selección (Fisher, Clean, SFS, Exhaustiva, Branch and Bound) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PAT03_SeleccionCaracteristicas.pptx)
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Apuntes sobre la selección de características [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Introducción a la selección de características [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
+### Clase 09 Ma. 06-Oct-2026:
+* 3.0 &nbsp; **MÓDULO PR.03.A**
+* 3.0 &nbsp; &nbsp; &nbsp; &nbsp; **Cap. 03: Selección y Transformación de Características**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03A_SeleccionCaracteristicas.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/pptx/PR03A_SeleccionCaracteristicas.pptx)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Apuntes sobre la selección de características [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03_FeatureSelection_Intro.pdf)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Introducción a la selección de características [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03_FeatureSelection.pdf)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de selección de características [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
 ---
 
 
-Updated on 02-Oct-2026 at 16:35 by Domingo Mery
+Updated on 02-Oct-2026 at 16:43 by Domingo Mery
