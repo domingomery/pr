@@ -1,7 +1,7 @@
 
 # Capitulo 01: Introduccion
 ### 1.1 Que es reconocimiento de patrones?:
-* > **Cap 01: INTRODUCCIÓN &mdash; ¿Qué es el Reconocimiento de Patrones?** 
+* > **Cap. 01: INTRODUCCIÓN &mdash; ¿Qué es el Reconocimiento de Patrones?** 
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.*)
 * >> Ejemplo en Python: OCR (0 vs. 1) [[Colab]](https://drive.google.com/file/d/1d_0mhHNfEy44ctqRDyy-cEbDKgez_0FY/view?usp=sharing)
 * > **Material de apoyo para la clase** 
@@ -10,15 +10,15 @@
 * >> Archivos Epstein [[Link]](http://jmail.world)
 * >> Ejercicio visión humana [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_EjercicioReconocimiento.pptx)
 * >> Visión humana / Visión por computador [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/PR01_Chihuahua_or_Muffin.pptx)
-* > **Cap 01: INTRODUCCIÓN &mdash; Metodología de Reconocimiento de Patrones** 
+* > **Cap. 01: INTRODUCCIÓN &mdash; Metodología de Reconocimiento de Patrones** 
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.*)
 * >> Ejemplo en Python: OCR (J vs. Q) [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
 * > **Material de apoyo para la clase** 
 * >> Reconocimiento de patrones estadístico (Jain, 2009) [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/extras/Jain_StatisticalPatternRecognition_2000.pdf)
-* > **Cap 01: INTRODUCCIÓN &mdash; Procesamiento de Imágenes** 
+* > **Cap. 01: INTRODUCCIÓN &mdash; Procesamiento de Imágenes** 
 ### 1.2 Que es el procesamiento y analisis de imagenes?:
 ### 1.3 Procesamiento basico de imágenes:
 ---
 
 
-Updated on 02-Oct-2026 at 17:17 by Domingo Mery
+Updated on 02-Oct-2026 at 17:20 by Domingo Mery

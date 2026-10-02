@@ -1,21 +1,21 @@
 
 # Capitulo 02: Extraccion de Caracteristicas
 ### 2.1 Introduccion:
-* > **Cap 02: EXTRACCIÓN &mdash; Características Geométricas** 
-* > **Cap 02: EXTRACCIÓN &mdash; Segmentación de Imágenes** 
+* > **Cap. 02: EXTRACCIÓN &mdash; Características Geométricas** 
+* > **Cap. 02: EXTRACCIÓN &mdash; Segmentación de Imágenes** 
 * --------------------------------------------------------- 
-* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02** 
+* > **Cap. 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02** 
 * > **Ejercicio PR.E02** 
 * > Enunciado PR.E02 [[Colab]](https://drive.google.com/file/d/1b2e4flvUzb-NenvIdCkZ40V4yCysDSfq/view?usp=sharing)
 * > Solución PR.E02 [[Colab]](http://google.drive/osso)
-* > **Cap 02: EXTRACCIÓN &mdash; Características Cromáticas** 
-* > **Cap 02: EXTRACCIÓN &mdash; HoG, LBP, SIFT** 
-* > **Cap 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02** 
+* > **Cap. 02: EXTRACCIÓN &mdash; Características Cromáticas** 
+* > **Cap. 02: EXTRACCIÓN &mdash; HoG, LBP, SIFT** 
+* > **Cap. 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02** 
 * > **Ejercicio PR.E02** 
 * > Enunciado PR.E03 [[Colab]](https://drive.google.com/file/d/1Bh-857mi0oqspx1Hhycs7KvPhOwb_BMo/view?usp=sharing)
 * > Solución PR.E02 [[Colab]](http://google.drive/osso)
 * --------------------------------------------------------- 
-* > **Cap 02: EXTRACCIÓN &mdash; Ejercicio PR.E04** 
+* > **Cap. 02: EXTRACCIÓN &mdash; Ejercicio PR.E04** 
 * > **Ejercicio PR.E04** 
 * > Enunciado PR.E04 [[Colab]](https://drive.google.com/file/d/1TtElEerPx_TgU51s4PpD8KBSWX49ygJf/view?usp=sharing)
 * > Solución PR.E04 [[Colab]](http://google.drive/osso)
@@ -61,4 +61,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 17:17 by Domingo Mery
+Updated on 02-Oct-2026 at 17:20 by Domingo Mery
