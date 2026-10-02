@@ -176,7 +176,7 @@
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1-iQyTfsxiFZXSw5Dlw0te9W6grJZde8u/view?usp=sharing)
 <hr/>
 
-### Clase 12 Ju. 15-Oct-2026:
+### Clase 12 Do. 18-Oct-2026:
 * 4.3 &nbsp; **MÓDULO PR.04.B**
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Redes neuronales**
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04B_RedesNeuronales.pptx)
@@ -200,7 +200,7 @@
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Tutorial de SVM en python [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 <hr/>
 
-### Clase 14 Ju. 22-Oct-2026:
+### Clase 14 Do. 25-Oct-2026:
 * 4.6 &nbsp; **MÓDULO PR.04.D**
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Clustering y Bag of words**
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04D_Clustering.pptx)
@@ -219,7 +219,7 @@
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (clasificación de lunares - 7 clases) [[Colab]](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS)
 <hr/>
 
-### Clase 16 Ju. 29-Oct-2026:
+### Clase 16 Do. 01-Nov-2026:
 * 5.0 &nbsp; **MÓDULO PR.05.A**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Métricas de Desempeño**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación
@@ -242,7 +242,7 @@
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/papers/NG-MLY01_13.pdf)
 <hr/>
 
-### Clase 18 Ju. 05-Nov-2026:
+### Clase 18 Do. 08-Nov-2026:
 * 3.0 &nbsp; **MÓDULO PR.E05**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E05**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E05**
@@ -288,4 +288,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 17:44 by Domingo Mery
+Updated on 02-Oct-2026 at 17:47 by Domingo Mery
