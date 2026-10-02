@@ -236,6 +236,10 @@
 <hr/>
 
 ### Clase 17 Ju. 05-Nov-2026:
+* 4.6 &nbsp; **AYUDANTIA**
+<hr/>
+
+### Clase 18 Ma. 10-Nov-2026:
 * 4.0 &nbsp; **MÓDULO PR.E09**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E09**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E09**
@@ -249,7 +253,7 @@
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E10 [[Colab]](http://google.drive/osso)
 <hr/>
 
-### Clase 18 Ma. 10-Nov-2026:
+### Clase 19 Ju. 12-Nov-2026:
 * 4.6 &nbsp; **MÓDULO PR.04.E**
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Deep Learning**
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04E_DeepLearning.pptx)
@@ -261,7 +265,7 @@
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (clasificación de lunares - 7 clases) [[Colab]](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS)
 <hr/>
 
-### Clase 19 Ju. 12-Nov-2026:
+### Clase 20 Ma. 17-Nov-2026:
 * 5.0 &nbsp; **MÓDULO PR.05.A**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Métricas de Desempeño**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación
@@ -273,13 +277,7 @@
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PR05A_Understanding-Biometric-Performance-Evaluation.pdf)
 <hr/>
 
-### Clase 20 Ma. 17-Nov-2026:
-* 5.1 &nbsp; **MÓDULO PR.E11**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E11**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E11**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E11 [[Colab]](http://google.drive/osso)
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E11 [[Colab]](http://google.drive/osso)
-* 4.1 &nbsp; ---------------------------------------------------------
+### Clase 21 Ju. 19-Nov-2026:
 * 5.3 &nbsp; **MÓDULO PR.05.B**
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Estimación de metricas**
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PR05B_ConsideracionesPracticas.pptx)
@@ -288,7 +286,19 @@
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Aspectos prácticos [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PR05B_ModelSelector.pdf)
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Selector de Modelos [[Colab]](https://drive.google.com/file/d/1Fnbnda8AGgdP5fXfIv1B_hvrRM9sPCXv/view?usp=sharing)
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/papers/NG-MLY01_13.pdf)
+<hr/>
+
+### Clase 22 Ma. 24-Nov-2026:
+* 5.1 &nbsp; **MÓDULO PR.E11**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E11**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E11**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E11 [[Colab]](http://google.drive/osso)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E11 [[Colab]](http://google.drive/osso)
+<hr/>
+
+### Clase 23 Ju. 26-Nov-2026:
+* 5.1 &nbsp; **AYUDANTIA**
 ---
 
 
-Updated on 02-Oct-2026 at 18:05 by Domingo Mery
+Updated on 02-Oct-2026 at 18:11 by Domingo Mery

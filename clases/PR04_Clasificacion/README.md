@@ -16,7 +16,6 @@
 * >> Enunciado PR.E09 [[Colab]](http://google.drive/osso)
 * >> Solución PR.E09 [[Colab]](http://google.drive/osso)
 * --------------------------------------------------------- 
-* --------------------------------------------------------- 
 ### 4.2 Clasificadores basicos:
 * > **Cap. 04: CLASIFICACIÓN &mdash;  Clasificadores básicos (KNN, Dmin, LDA, QDA, etc.)** 
 * >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04A_ClasificadoresBasicos.pptx)
@@ -56,9 +55,10 @@
 * > **Cap. 04: CLASIFICACIÓN &mdash;  Clustering y Bag of words** 
 * >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04D_Clustering.pptx)
 * >> Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
+* **AYUDANTIA** 
 * **MÓDULO PR.04.E** 
 * > **Cap. 04: CLASIFICACIÓN &mdash;  Deep Learning** 
 ---
 
 
-Updated on 02-Oct-2026 at 18:05 by Domingo Mery
+Updated on 02-Oct-2026 at 18:11 by Domingo Mery

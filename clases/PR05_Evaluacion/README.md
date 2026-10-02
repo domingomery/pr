@@ -15,10 +15,11 @@
 * > **Ejercicio PR.E11** 
 * >> Enunciado PR.E11 [[Colab]](http://google.drive/osso)
 * >> Solución PR.E11 [[Colab]](http://google.drive/osso)
+* **AYUDANTIA** 
 ### 5.2 Metricas de desempeno:
 ### 5.3 Estimacion de las metricas:
 ### 5.4 Aspectos practicos:
 ---
 
 
-Updated on 02-Oct-2026 at 18:05 by Domingo Mery
+Updated on 02-Oct-2026 at 18:11 by Domingo Mery
