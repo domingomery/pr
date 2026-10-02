@@ -5,12 +5,10 @@
 * > **Ejercicio PR.E07** 
 * >> Enunciado PR.E07 [[Colab]](http://google.drive/osso)
 * >> Solución PR.E07 [[Colab]](http://google.drive/osso)
-* --------------------------------------------------------- 
 * > **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E08** 
 * > **Ejercicio PR.E08** 
 * >> Enunciado PR.E08 [[Colab]](http://google.drive/osso)
 * >> Solución PR.E08 [[Colab]](http://google.drive/osso)
-* --------------------------------------------------------- 
 * > **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E09** 
 * > **Ejercicio PR.E09** 
 * >> Enunciado PR.E09 [[Colab]](http://google.drive/osso)
@@ -27,15 +25,15 @@
 * **MÓDULO PR.04.B** 
 * > **Cap. 04: CLASIFICACIÓN &mdash;  Redes neuronales** 
 * >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04B_RedesNeuronales.pptx)
-* >> Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04B_BackPropagation.pdf)
 * >> Python: Clasificador basado en Redes Neuornales (from skratch) [[Colab]](https://drive.google.com/file/d/1Y4FYNh4thmTSxDv66tQy7bUm754x8GdN/view?usp=sharing)
 * >> Python: Clasificador basado en Redes Neuornales [[Colab]](https://drive.google.com/file/d/1p0aN_-DAc5FoYO5LvIMrWVDe7C4RKTTr/view?usp=sharing)
 * >> Python: Ejemplo NN en MNIST con pytorch [[Colab]](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
+* >> Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04B_BackPropagation.pdf)
 * >> Libro: Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 ### 4.4 Support vector machines:
 * **MÓDULO PR.04.C** 
 * > **Cap. 04: CLASIFICACIÓN &mdash;  Support vector machines** 
-* >> Introducción a SVM [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04C_SVM.pptx)
+* >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04C_SVM.pptx)
 * >> Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
 * >> Teroía sobre SVM [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04C_SVM_new.pdf)
 * >> Teoría sobre SVM [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04C_SVM_Theory.pdf)
@@ -59,4 +57,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 17:47 by Domingo Mery
+Updated on 02-Oct-2026 at 17:56 by Domingo Mery

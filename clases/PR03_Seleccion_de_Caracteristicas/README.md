@@ -8,12 +8,10 @@
 * > **Ejercicio PR.E05** 
 * >> Enunciado PR.E05 [[Colab]](http://google.drive/osso)
 * >> Solución PR.E05 [[Colab]](http://google.drive/osso)
-* --------------------------------------------------------- 
 * > **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E06** 
 * > **Ejercicio PR.E06** 
 * >> Enunciado PR.E06 [[Colab]](http://google.drive/osso)
 * >> Solución PR.E06 [[Colab]](http://google.drive/osso)
-* --------------------------------------------------------- 
 ### 3.2 Algoritmos de selección:
 * >> Python: Ejemplo de selección de características [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
 * > **Material de apoyo para la clase** 
@@ -33,7 +31,7 @@
 * --------------------------------------------------------- 
 * **MÓDULO PR.03.C** 
 * > **Cap. 03: SELECCIÓN  &mdash;  Estrategias** 
-* >> Esquema general con selección de características [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03C_GeneralSchema.pdf)
+* >> Presentación [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03C_GeneralSchema.pdf)
 * >> Python: Bateria de ejemplos de selección de características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
 * > **Material de apoyo para la clase** 
 * >> How to perform feature selection with numerical input data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
@@ -42,4 +40,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 17:47 by Domingo Mery
+Updated on 02-Oct-2026 at 17:56 by Domingo Mery
