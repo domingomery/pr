@@ -8,6 +8,8 @@
 * > **Ejercicio PR.E05** 
 * >> Enunciado PR.E05 [[Colab]](http://google.drive/osso)
 * >> Solución PR.E05 [[Colab]](http://google.drive/osso)
+* --------------------------------------------------------- 
+* **MÓDULO PR.E06** 
 * > **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E06** 
 * > **Ejercicio PR.E06** 
 * >> Enunciado PR.E06 [[Colab]](http://google.drive/osso)
@@ -40,4 +42,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 17:56 by Domingo Mery
+Updated on 02-Oct-2026 at 18:05 by Domingo Mery

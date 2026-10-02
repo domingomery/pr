@@ -145,14 +145,6 @@
 <hr/>
 
 ### Clase 10 Ju. 08-Oct-2026:
-* 3.0 &nbsp; **MÓDULO PR.E05**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E05**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E05**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E05 [[Colab]](http://google.drive/osso)
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E05 [[Colab]](http://google.drive/osso)
-<hr/>
-
-### Clase 11 Ma. 13-Oct-2026:
 * 2.0 &nbsp; **MÓDULO PR.03.B**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: SELECCIÓN  &mdash;  Transformación de características (PCA)**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03B_PCA.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/pptx/PR03B_PCA.pptx)
@@ -172,15 +164,21 @@
 * 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 <hr/>
 
-### Clase 12 Do. 18-Oct-2026:
-* 3.0 &nbsp; **MÓDULO PR.E06**
+### Clase 11 Ma. 13-Oct-2026:
+* 3.0 &nbsp; **MÓDULO PR.E05**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E05**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E05**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E05 [[Colab]](http://google.drive/osso)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E05 [[Colab]](http://google.drive/osso)
+* 3.1 &nbsp; ---------------------------------------------------------
+* 3.1 &nbsp; **MÓDULO PR.E06**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E06**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E06**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E06 [[Colab]](http://google.drive/osso)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E06 [[Colab]](http://google.drive/osso)
 <hr/>
 
-### Clase 13 Ma. 20-Oct-2026:
+### Clase 12 Ma. 20-Oct-2026:
 * 4.0 &nbsp; **MÓDULO PR.04.A**
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Clasificadores básicos (KNN, Dmin, LDA, QDA, etc.)**
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04A_ClasificadoresBasicos.pptx)
@@ -192,15 +190,7 @@
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1-iQyTfsxiFZXSw5Dlw0te9W6grJZde8u/view?usp=sharing)
 <hr/>
 
-### Clase 14 Do. 25-Oct-2026:
-* 4.0 &nbsp; **MÓDULO PR.E07**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E07**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E07**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E07 [[Colab]](http://google.drive/osso)
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E07 [[Colab]](http://google.drive/osso)
-<hr/>
-
-### Clase 15 Ma. 27-Oct-2026:
+### Clase 13 Ju. 22-Oct-2026:
 * 4.3 &nbsp; **MÓDULO PR.04.B**
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Redes neuronales**
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04B_RedesNeuronales.pptx)
@@ -212,15 +202,21 @@
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 <hr/>
 
-### Clase 16 Do. 01-Nov-2026:
-* 4.0 &nbsp; **MÓDULO PR.E08**
+### Clase 14 Ma. 27-Oct-2026:
+* 4.0 &nbsp; **MÓDULO PR.E07**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E07**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E07**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E07 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E07 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; ---------------------------------------------------------
+* 4.1 &nbsp; **MÓDULO PR.E08**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E08**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E08**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E08 [[Colab]](http://google.drive/osso)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E08 [[Colab]](http://google.drive/osso)
 <hr/>
 
-### Clase 17 Ma. 03-Nov-2026:
+### Clase 15 Ju. 29-Oct-2026:
 * 4.4 &nbsp; **MÓDULO PR.04.C**
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Support vector machines**
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04C_SVM.pptx)
@@ -232,22 +228,20 @@
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Tutorial de SVM en python [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 <hr/>
 
-### Clase 18 Do. 08-Nov-2026:
-* 4.0 &nbsp; **MÓDULO PR.E09**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E09**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E09**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E09 [[Colab]](http://google.drive/osso)
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E09 [[Colab]](http://google.drive/osso)
-<hr/>
-
-### Clase 19 Ma. 10-Nov-2026:
+### Clase 16 Ma. 03-Nov-2026:
 * 4.6 &nbsp; **MÓDULO PR.04.D**
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Clustering y Bag of words**
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04D_Clustering.pptx)
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
 <hr/>
 
-### Clase 20 Ma. 02-Jun-2026:
+### Clase 17 Ju. 05-Nov-2026:
+* 4.0 &nbsp; **MÓDULO PR.E09**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E09**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E09**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E09 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E09 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; ---------------------------------------------------------
 * 5.1 &nbsp; **MÓDULO PR.E10**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E10**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E10**
@@ -255,7 +249,7 @@
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E10 [[Colab]](http://google.drive/osso)
 <hr/>
 
-### Clase 21 Ju. 04-Jun-2026:
+### Clase 18 Ma. 10-Nov-2026:
 * 4.6 &nbsp; **MÓDULO PR.04.E**
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Deep Learning**
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04E_DeepLearning.pptx)
@@ -267,15 +261,7 @@
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (clasificación de lunares - 7 clases) [[Colab]](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS)
 <hr/>
 
-### Clase 22 Ma. 09-Jun-2026:
-* 5.1 &nbsp; **MÓDULO PR.E11**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E11**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E11**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E11 [[Colab]](http://google.drive/osso)
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E11 [[Colab]](http://google.drive/osso)
-<hr/>
-
-### Clase 23 Ju. 11-Jun-2026:
+### Clase 19 Ju. 12-Nov-2026:
 * 5.0 &nbsp; **MÓDULO PR.05.A**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Métricas de Desempeño**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación
@@ -287,7 +273,13 @@
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PR05A_Understanding-Biometric-Performance-Evaluation.pdf)
 <hr/>
 
-### Clase 25 Ma. 23-Jun-2026:
+### Clase 20 Ma. 17-Nov-2026:
+* 5.1 &nbsp; **MÓDULO PR.E11**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E11**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E11**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E11 [[Colab]](http://google.drive/osso)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E11 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; ---------------------------------------------------------
 * 5.3 &nbsp; **MÓDULO PR.05.B**
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Estimación de metricas**
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentations/PR05B_ConsideracionesPracticas.pptx)
@@ -299,4 +291,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 17:56 by Domingo Mery
+Updated on 02-Oct-2026 at 18:05 by Domingo Mery

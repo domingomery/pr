@@ -5,6 +5,8 @@
 * > **Ejercicio PR.E07** 
 * >> Enunciado PR.E07 [[Colab]](http://google.drive/osso)
 * >> Solución PR.E07 [[Colab]](http://google.drive/osso)
+* --------------------------------------------------------- 
+* **MÓDULO PR.E08** 
 * > **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E08** 
 * > **Ejercicio PR.E08** 
 * >> Enunciado PR.E08 [[Colab]](http://google.drive/osso)
@@ -13,6 +15,8 @@
 * > **Ejercicio PR.E09** 
 * >> Enunciado PR.E09 [[Colab]](http://google.drive/osso)
 * >> Solución PR.E09 [[Colab]](http://google.drive/osso)
+* --------------------------------------------------------- 
+* --------------------------------------------------------- 
 ### 4.2 Clasificadores basicos:
 * > **Cap. 04: CLASIFICACIÓN &mdash;  Clasificadores básicos (KNN, Dmin, LDA, QDA, etc.)** 
 * >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04A_ClasificadoresBasicos.pptx)
@@ -57,4 +61,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 17:56 by Domingo Mery
+Updated on 02-Oct-2026 at 18:05 by Domingo Mery
