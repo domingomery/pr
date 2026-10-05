@@ -1,9 +1,9 @@
 
 # Capitulo 03: Selección y Transformacion de Caracteristicas
 ### 3.1 Introduccion:
-* >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03A_SeleccionCaracteristicas.*)
-* >> Material de apoyo: Apuntes sobre la selección de características [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03_FeatureSelection_Intro.pdf)
-* >> Material de apoyo: Paper - Introducción a la selección de características [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03_FeatureSelection.pdf)
+* >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03A_SeleccionCaracteristicas.*)
+* >> Material de apoyo: Apuntes sobre la selección de características [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03_FeatureSelection_Intro.pdf)
+* >> Material de apoyo: Paper - Introducción a la selección de características [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03_FeatureSelection.pdf)
 * > **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E05** 
 * > **Ejercicio PR.E05** 
 * >> Enunciado PR.E05 [[Colab]](http://google.drive/osso)
@@ -23,7 +23,7 @@
 * > **Material de apoyo para la clase** 
 ### 3.3 Algoritmos de transformacion:
 * > **Cap. 03: SELECCIÓN  &mdash;  Transformación de características (PCA)** 
-* >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03B_PCA.*)
+* >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03B_PCA.*)
 * >> Python: Ejemplo de reconocimiento facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
 * > **Material de apoyo para la clase** 
 * >> Principal components analysis PCA [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/matlab/PR03B_PCAidea.m)
@@ -33,7 +33,7 @@
 * --------------------------------------------------------- 
 * **MÓDULO PR.03.C** 
 * > **Cap. 03: SELECCIÓN  &mdash;  Estrategias** 
-* >> Presentación [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentations/PR03C_GeneralSchema.pdf)
+* >> Presentación [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03C_GeneralSchema.pdf)
 * >> Python: Bateria de ejemplos de selección de características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
 * > **Material de apoyo para la clase** 
 * >> How to perform feature selection with numerical input data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
@@ -42,4 +42,4 @@
 ---
 
 
-Updated on 05-Oct-2026 at 09:12 by Domingo Mery
+Updated on 05-Oct-2026 at 09:38 by Domingo Mery
