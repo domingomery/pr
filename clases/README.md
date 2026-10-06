@@ -148,10 +148,10 @@
 * 2.0 &nbsp; **MÓDULO PR.03.B**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: SELECCIÓN  &mdash;  Transformación de características (PCA)**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03B_PCA.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/pptx/PR03B_PCA.pptx)
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de reconocimiento facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de reconocimiento facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Principal components analysis PCA [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/matlab/PR03B_PCAidea.m)
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Matlab: Idea básica de PCA para dos variables [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Matlab: Visualización de la idea de PCA en 2D [[extras]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/matlab/PCAidea.m)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Estrategias de Selección y Transformación (SFS+PCA, SFS+ICA, etc.) [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
 * 3.4 &nbsp; ---------------------------------------------------------
 * 3.4 &nbsp; **MÓDULO PR.03.C**
@@ -301,4 +301,4 @@
 ---
 
 
-Updated on 05-Oct-2026 at 09:38 by Domingo Mery
+Updated on 06-Oct-2026 at 17:52 by Domingo Mery
