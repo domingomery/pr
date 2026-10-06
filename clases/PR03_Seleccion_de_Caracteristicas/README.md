@@ -28,7 +28,7 @@
 * > **Material de apoyo para la clase** 
 * >> Matlab: Visualización de la idea de PCA en 2D [[Matlab]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/extras/PCAidea.m)
 * >> Python: Estrategias de Selección y Transformación (SFS+PCA, SFS+ICA, etc.) [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
-* >> ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
+* >> ICA [[Apuntes]](https://towardsdatascience.com/introduction-to-ica-independent-component-analysis-b2c3c4720cd9/)
 ### 3.4 Estrategias de seleccion y transformacion:
 * --------------------------------------------------------- 
 * **MÓDULO PR.03.C** 
@@ -42,4 +42,4 @@
 ---
 
 
-Updated on 06-Oct-2026 at 17:53 by Domingo Mery
+Updated on 06-Oct-2026 at 17:54 by Domingo Mery
