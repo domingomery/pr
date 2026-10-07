@@ -55,6 +55,7 @@
 * 1.2 &nbsp; ---------------------------------------------------------
 * 1.2 &nbsp; **MÓDULO PR.E01**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 01: INTRODUCCIÓN &mdash; Ejercicio PR.E01**
+* 1.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E01 - Detección de ochos**
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E01 [[Colab]](https://drive.google.com/file/d/1ggQHTkUjoNWpyTUfY6mlc0wvGbSME8uW/view?usp=sharing)
 * 1.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E01 [[Colab]](http://google.drive/osso)
 <hr/>
@@ -81,7 +82,7 @@
 * 2.1 &nbsp; ---------------------------------------------------------
 * 2.1 &nbsp; **MÓDULO PR.E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E02 - Procesamiento de imágenes**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E02 [[Colab]](https://drive.google.com/file/d/1b2e4flvUzb-NenvIdCkZ40V4yCysDSfq/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E02 [[Colab]](http://google.drive/osso)
 <hr/>
@@ -122,16 +123,16 @@
 
 ### Clase 08 Ju. 03-Sep-2026:
 * 2.0 &nbsp; **MÓDULO PR.E03**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 01: INTRODUCCIÓN &mdash; Ejercicio PR.E03**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E03 - Clasificación de cubiertos**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E03 [[Colab]](https://drive.google.com/file/d/1Bh-857mi0oqspx1Hhycs7KvPhOwb_BMo/view?usp=sharing)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E03 [[Colab]](https://drive.google.com/file/d/1hTKK15dXqguJZYXVAc3yfaK_EZzrRv3Q/view?usp=sharing)
 * 2.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO PR.E04**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 02: EXTRACCIÓN &mdash; Ejercicio PR.E04**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E04**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E04 - Clasificación de texturas**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E04 [[Colab]](https://drive.google.com/file/d/1TtElEerPx_TgU51s4PpD8KBSWX49ygJf/view?usp=sharing)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E04 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E04 [[Colab]](https://drive.google.com/file/d/1V-UqxpTQcRP62lUvFbCw5JOsXP_rmhYo/view?usp=sharing)
 <hr/>
 
 ### Clase 09 Ma. 06-Oct-2026:
@@ -167,14 +168,14 @@
 ### Clase 11 Ma. 13-Oct-2026:
 * 3.0 &nbsp; **MÓDULO PR.E05**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E05**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E05**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E05 [[Colab]](http://google.drive/osso)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E05 - Reconocimiento de dígitos**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E05 [[Colab]](https://drive.google.com/file/d/1r0fCKFGrgEEEBzBF7Q4N7wyAChJN9SRf/view?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E05 [[Colab]](http://google.drive/osso)
 * 3.1 &nbsp; ---------------------------------------------------------
 * 3.1 &nbsp; **MÓDULO PR.E06**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E06**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E06**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E06 [[Colab]](http://google.drive/osso)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E06 - Selección y Transformación**
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E06 [[Colab]](https://drive.google.com/file/d/1mNyNT3QT270Bq7I87A64PNiRkHV2AW57/view?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E06 [[Colab]](http://google.drive/osso)
 <hr/>
 
@@ -301,4 +302,4 @@
 ---
 
 
-Updated on 06-Oct-2026 at 17:54 by Domingo Mery
+Updated on 07-Oct-2026 at 09:59 by Domingo Mery

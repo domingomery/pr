@@ -5,14 +5,14 @@
 * >> Material de apoyo: Apuntes sobre la selección de características [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03_FeatureSelection_Intro.pdf)
 * >> Material de apoyo: Paper - Introducción a la selección de características [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03_FeatureSelection.pdf)
 * > **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E05** 
-* > **Ejercicio PR.E05** 
-* >> Enunciado PR.E05 [[Colab]](http://google.drive/osso)
+* > **Ejercicio PR.E05 - Reconocimiento de dígitos** 
+* >> Enunciado PR.E05 [[Colab]](https://drive.google.com/file/d/1r0fCKFGrgEEEBzBF7Q4N7wyAChJN9SRf/view?usp=sharing)
 * >> Solución PR.E05 [[Colab]](http://google.drive/osso)
 * --------------------------------------------------------- 
 * **MÓDULO PR.E06** 
 * > **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E06** 
-* > **Ejercicio PR.E06** 
-* >> Enunciado PR.E06 [[Colab]](http://google.drive/osso)
+* > **Ejercicio PR.E06 - Selección y Transformación** 
+* >> Enunciado PR.E06 [[Colab]](https://drive.google.com/file/d/1mNyNT3QT270Bq7I87A64PNiRkHV2AW57/view?usp=sharing)
 * >> Solución PR.E06 [[Colab]](http://google.drive/osso)
 ### 3.2 Algoritmos de selección:
 * >> Python: Ejemplo de selección de características [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
@@ -42,4 +42,4 @@
 ---
 
 
-Updated on 06-Oct-2026 at 17:54 by Domingo Mery
+Updated on 07-Oct-2026 at 09:59 by Domingo Mery

@@ -6,20 +6,20 @@
 * --------------------------------------------------------- 
 * **MÓDULO PR.E02** 
 * > **Cap. 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02** 
-* > **Ejercicio PR.E02** 
+* > **Ejercicio PR.E02 - Procesamiento de imágenes** 
 * >> Enunciado PR.E02 [[Colab]](https://drive.google.com/file/d/1b2e4flvUzb-NenvIdCkZ40V4yCysDSfq/view?usp=sharing)
 * >> Solución PR.E02 [[Colab]](http://google.drive/osso)
 * > **Cap. 02: EXTRACCIÓN &mdash; Características Cromáticas** 
 * > **Cap. 02: EXTRACCIÓN &mdash; HoG, LBP, SIFT** 
-* > **Cap. 01: INTRODUCCIÓN &mdash; Ejercicio PR.E02** 
-* > **Ejercicio PR.E02** 
+* > **Cap. 01: INTRODUCCIÓN &mdash; Ejercicio PR.E03** 
+* > **Ejercicio PR.E03 - Clasificación de cubiertos** 
 * >> Enunciado PR.E03 [[Colab]](https://drive.google.com/file/d/1Bh-857mi0oqspx1Hhycs7KvPhOwb_BMo/view?usp=sharing)
-* >> Solución PR.E02 [[Colab]](http://google.drive/osso)
+* >> Solución PR.E03 [[Colab]](https://drive.google.com/file/d/1hTKK15dXqguJZYXVAc3yfaK_EZzrRv3Q/view?usp=sharing)
 * --------------------------------------------------------- 
 * > **Cap. 02: EXTRACCIÓN &mdash; Ejercicio PR.E04** 
-* > **Ejercicio PR.E04** 
+* > **Ejercicio PR.E04 - Clasificación de texturas** 
 * >> Enunciado PR.E04 [[Colab]](https://drive.google.com/file/d/1TtElEerPx_TgU51s4PpD8KBSWX49ygJf/view?usp=sharing)
-* >> Solución PR.E04 [[Colab]](http://google.drive/osso)
+* >> Solución PR.E04 [[Colab]](https://drive.google.com/file/d/1V-UqxpTQcRP62lUvFbCw5JOsXP_rmhYo/view?usp=sharing)
 ### 2.2 Segmentacion de imágenes:
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02A_CaracteristicasGeometricas.*)
 * >> Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02B_Segmentacion.*)
@@ -62,4 +62,4 @@
 ---
 
 
-Updated on 06-Oct-2026 at 17:54 by Domingo Mery
+Updated on 07-Oct-2026 at 09:59 by Domingo Mery
