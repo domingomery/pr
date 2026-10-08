@@ -157,6 +157,7 @@
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ICA [[Apuntes]](https://towardsdatascience.com/introduction-to-ica-independent-component-analysis-b2c3c4720cd9/)
 * 3.4 &nbsp; ---------------------------------------------------------
 * 3.3 &nbsp; **ENUNCIADO TAREA 02** [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03_Tarea02_Enunciado.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/pptx/PR03_Tarea02_Enunciado.pptx)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  Base de Datos de la Tarea 02 [[BD]](https://drive.google.com/file/d/16Zs_DQljQ6Lmtt3HCgsuD1mgABmB0gPU/view?usp=sharing)
 <hr/>
 
 ### Clase 11 Ma. 13-Oct-2026:
@@ -303,4 +304,4 @@
 ---
 
 
-Updated on 08-Oct-2026 at 18:27 by Domingo Mery
+Updated on 08-Oct-2026 at 18:30 by Domingo Mery
