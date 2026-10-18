@@ -172,13 +172,13 @@
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E05**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E05 - Reconocimiento de dígitos**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E05 [[Colab]](https://drive.google.com/file/d/1r0fCKFGrgEEEBzBF7Q4N7wyAChJN9SRf/view?usp=sharing)
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E05 [[Colab]](http://google.drive/osso)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E05 [[Colab]](https://drive.google.com/file/d/1w1hO-E1F-FHiFO-jU66ebOG9xuBdCvU9/view?usp=sharing)
 * 3.1 &nbsp; ---------------------------------------------------------
 * 3.1 &nbsp; **MÓDULO PR.E06**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E06**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E06 - Selección y Transformación**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E06 [[Colab]](https://drive.google.com/file/d/1mNyNT3QT270Bq7I87A64PNiRkHV2AW57/view?usp=sharing)
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E06 [[Colab]](http://google.drive/osso)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E06 [[Colab]](https://drive.google.com/file/d/1yfI9y7TLySVNT3DMgrZ96aFJ-o-Gv8Of/view?usp=sharing)
 <hr/>
 
 ### Clase 12 Ma. 20-Oct-2026:
@@ -304,4 +304,4 @@
 ---
 
 
-Updated on 08-Oct-2026 at 18:30 by Domingo Mery
+Updated on 18-Oct-2026 at 20:28 by Domingo Mery
