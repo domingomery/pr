@@ -184,7 +184,7 @@
 ### Clase 12 Ma. 20-Oct-2026:
 * 4.0 &nbsp; **MÓDULO PR.04.A**
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Clasificadores básicos (KNN, Dmin, LDA, QDA, etc.)**
-* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04A_ClasificadoresBasicos.pptx)
+* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04A_ClasificadoresBasicos.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/pptx/PR04A_ClasificadoresBasicos.pptx)
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1u_Xl7JYxhBxtYci8Kz8iyQf8X3F7CmLl/view?usp=sharing)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
@@ -196,7 +196,7 @@
 ### Clase 13 Ju. 22-Oct-2026:
 * 4.3 &nbsp; **MÓDULO PR.04.B**
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Redes neuronales**
-* 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04B_RedesNeuronales.pptx)
+* 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04B_RedesNeuronales.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/pptx/PR04B_RedesNeuronales.pptx)
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificador basado en Redes Neuornales (from skratch) [[Colab]](https://drive.google.com/file/d/1Y4FYNh4thmTSxDv66tQy7bUm754x8GdN/view?usp=sharing)
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificador basado en Redes Neuornales [[Colab]](https://drive.google.com/file/d/1p0aN_-DAc5FoYO5LvIMrWVDe7C4RKTTr/view?usp=sharing)
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo NN en MNIST con pytorch [[Colab]](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
@@ -222,7 +222,7 @@
 ### Clase 15 Ju. 29-Oct-2026:
 * 4.4 &nbsp; **MÓDULO PR.04.C**
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Support vector machines**
-* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04C_SVM.pptx)
+* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04C_SVM.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/pptx/PR04C_SVM.pptx)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teroía sobre SVM [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04C_SVM_new.pdf)
@@ -234,7 +234,7 @@
 ### Clase 16 Ma. 03-Nov-2026:
 * 4.6 &nbsp; **MÓDULO PR.04.D**
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Clustering y Bag of words**
-* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04D_Clustering.pptx)
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/PR04D_Clustering.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentations/pptx/PR04D_Clustering.pptx)
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
 <hr/>
 
@@ -304,4 +304,4 @@
 ---
 
 
-Updated on 18-Oct-2026 at 20:28 by Domingo Mery
+Updated on 18-Oct-2026 at 20:44 by Domingo Mery
