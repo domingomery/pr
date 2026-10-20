@@ -1,11 +1,11 @@
 
 # Capitulo 04: Clasificacion
 ### 4.1 Introduccion:
+* --------------------------------------------------------- 
 * > **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E07** 
 * > **Ejercicio PR.E07** 
-* >> Enunciado PR.E07 [[Colab]](http://google.drive/osso)
+* >> Enunciado PR.E07 [[Colab]](https://drive.google.com/file/d/1wIIHPH442_kTqXMdGPJI-N2fqgHXWINb/view?usp=sharing)
 * >> Solución PR.E07 [[Colab]](http://google.drive/osso)
-* --------------------------------------------------------- 
 * **MÓDULO PR.E08** 
 * > **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E08** 
 * > **Ejercicio PR.E08** 
@@ -22,7 +22,6 @@
 * >> Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * >> Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1u_Xl7JYxhBxtYci8Kz8iyQf8X3F7CmLl/view?usp=sharing)
 * >> Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
-* >> Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * >> Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1-iQyTfsxiFZXSw5Dlw0te9W6grJZde8u/view?usp=sharing)
 ### 4.3 Redes neuronales:
 * **MÓDULO PR.04.B** 
@@ -61,4 +60,4 @@
 ---
 
 
-Updated on 18-Oct-2026 at 20:48 by Domingo Mery
+Updated on 20-Oct-2026 at 10:16 by Domingo Mery

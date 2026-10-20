@@ -189,7 +189,6 @@
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1u_Xl7JYxhBxtYci8Kz8iyQf8X3F7CmLl/view?usp=sharing)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
-* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1-iQyTfsxiFZXSw5Dlw0te9W6grJZde8u/view?usp=sharing)
 <hr/>
 
@@ -203,23 +202,15 @@
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/PR04B_BackPropagation.pdf)
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
-<hr/>
-
-### Clase 14 Ma. 27-Oct-2026:
+* 4.1 &nbsp; ---------------------------------------------------------
 * 4.0 &nbsp; **MÓDULO PR.E07**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E07**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E07**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E07 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E07 [[Colab]](https://drive.google.com/file/d/1wIIHPH442_kTqXMdGPJI-N2fqgHXWINb/view?usp=sharing)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E07 [[Colab]](http://google.drive/osso)
-* 4.1 &nbsp; ---------------------------------------------------------
-* 4.1 &nbsp; **MÓDULO PR.E08**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E08**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E08**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E08 [[Colab]](http://google.drive/osso)
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E08 [[Colab]](http://google.drive/osso)
 <hr/>
 
-### Clase 15 Ju. 29-Oct-2026:
+### Clase 14 Ma. 27-Oct-2026:
 * 4.4 &nbsp; **MÓDULO PR.04.C**
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Support vector machines**
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/PR04C_SVM.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/pptx/PR04C_SVM.pptx)
@@ -229,6 +220,14 @@
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/PR04C_SVM_Theory.pdf)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/papers/PR04C_SupportVectorMachines.pdf)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Tutorial de SVM en python [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
+<hr/>
+
+### Clase 15 Ju. 29-Oct-2026:
+* 4.1 &nbsp; **MÓDULO PR.E08**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E08**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E08**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E08 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E08 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 16 Ma. 03-Nov-2026:
@@ -304,4 +303,4 @@
 ---
 
 
-Updated on 18-Oct-2026 at 20:48 by Domingo Mery
+Updated on 20-Oct-2026 at 10:16 by Domingo Mery
