@@ -226,7 +226,7 @@
 * 4.1 &nbsp; **MÓDULO PR.E08**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E08**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E08**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E08 [[Colab]](https://drive.google.com/file/d/1ReaEZsLwMcI48pNiNGsF_Moi695nKD3q/view?usp=sharing)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E08 [[Colab]](https://drive.google.com/file/d/1pDWF8NWoa-7Qka_bkv73Ud3sQji9vHUJ/view?usp=sharing)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E08 [[Colab]](http://google.drive/osso)
 <hr/>
 
@@ -303,4 +303,4 @@
 ---
 
 
-Updated on 27-Oct-2026 at 10:36 by Domingo Mery
+Updated on 27-Oct-2026 at 20:38 by Domingo Mery
