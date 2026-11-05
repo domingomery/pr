@@ -242,6 +242,13 @@
 <hr/>
 
 ### Clase 18 Ma. 10-Nov-2026:
+* 4.6 &nbsp; **MÓDULO PR.04.E**
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Deep Learning**
+* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/PR04E_DeepLearning.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/pptx/PR04E_DeepLearning.pptx)
+* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
+<hr/>
+
+### Clase 19 Ju. 12-Nov-2026:
 * 4.0 &nbsp; **MÓDULO PR.E09**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E09**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E09**
@@ -253,18 +260,6 @@
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E10**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E10 [[Colab]](http://google.drive/osso)
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E10 [[Colab]](http://google.drive/osso)
-<hr/>
-
-### Clase 19 Ju. 12-Nov-2026:
-* 4.6 &nbsp; **MÓDULO PR.04.E**
-* 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Deep Learning**
-* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/PR04E_DeepLearning.pptx)
-* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
-* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (detección de defectos) [[Colab]](https://drive.google.com/file/d/1g5hjIdQW0q-xH6g0a2uCaRTET0ngEIyi)
-* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (detección de covid) [[Colab]](https://drive.google.com/file/d/1w1TzZQaN7d3CyfAV7fUklRXdSPTv3Dfh)
-* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (perros y gatos) [[Colab]](https://drive.google.com/file/d/1SfwPxAV46KrFOIs0546fSSIKgEwPXYCO)
-* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (clasificación de lunares - 2 clases) [[Colab]](https://drive.google.com/file/d/1wvbWbDkdIyJ_JW9OcloE-s4dH5OH6knd)
-* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (clasificación de lunares - 7 clases) [[Colab]](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS)
 <hr/>
 
 ### Clase 20 Ma. 17-Nov-2026:
@@ -303,4 +298,4 @@
 ---
 
 
-Updated on 02-Nov-2026 at 11:51 by Domingo Mery
+Updated on 05-Nov-2026 at 15:50 by Domingo Mery

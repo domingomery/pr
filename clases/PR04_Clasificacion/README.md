@@ -42,13 +42,8 @@
 * >> Teoría sobre SVM [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/papers/PR04C_SupportVectorMachines.pdf)
 * >> Tutorial de SVM en python [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 ### 4.5 Deep Learning:
-* >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/PR04E_DeepLearning.pptx)
+* >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/PR04E_DeepLearning.*)
 * >> Python: Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
-* >> Python: Ejemplo CNN basico (detección de defectos) [[Colab]](https://drive.google.com/file/d/1g5hjIdQW0q-xH6g0a2uCaRTET0ngEIyi)
-* >> Python: Ejemplo CNN basico (detección de covid) [[Colab]](https://drive.google.com/file/d/1w1TzZQaN7d3CyfAV7fUklRXdSPTv3Dfh)
-* >> Python: Ejemplo CNN basico (perros y gatos) [[Colab]](https://drive.google.com/file/d/1SfwPxAV46KrFOIs0546fSSIKgEwPXYCO)
-* >> Python: Ejemplo CNN basico (clasificación de lunares - 2 clases) [[Colab]](https://drive.google.com/file/d/1wvbWbDkdIyJ_JW9OcloE-s4dH5OH6knd)
-* >> Python: Ejemplo CNN basico (clasificación de lunares - 7 clases) [[Colab]](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS)
 ### 4.6 Bag of Words:
 * **MÓDULO PR.04.D** 
 * > **Cap. 04: CLASIFICACIÓN &mdash;  Clustering y Bag of words** 
@@ -60,4 +55,4 @@
 ---
 
 
-Updated on 02-Nov-2026 at 11:51 by Domingo Mery
+Updated on 05-Nov-2026 at 15:50 by Domingo Mery
