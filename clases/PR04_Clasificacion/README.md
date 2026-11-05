@@ -42,7 +42,7 @@
 * >> Teoría sobre SVM [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/papers/PR04C_SupportVectorMachines.pdf)
 * >> Tutorial de SVM en python [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 ### 4.5 Deep Learning:
-* >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/PR04E_DeepLearning.*)
+* >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/PR04E_CNN.*)
 * >> Python: Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
 ### 4.6 Bag of Words:
 * **MÓDULO PR.04.D** 
@@ -55,4 +55,4 @@
 ---
 
 
-Updated on 05-Nov-2026 at 15:50 by Domingo Mery
+Updated on 05-Nov-2026 at 15:53 by Domingo Mery
