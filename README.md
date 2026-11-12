@@ -242,25 +242,35 @@
 <hr/>
 
 ### Clase 18 Ju. 12-Nov-2026:
+* 5.3 &nbsp; **MÓDULO PR.05.A**
+* 5.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Estimación de metricas**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Qué es evaluación de desempeño? [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05A_EsquemaGeneral.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/pptx/PR05A_EsquemaGeneral.pptx)
+* 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05A_ConsideracionesPracticas.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/pptx/PR05A_ConsideracionesPracticas.pptx)
+* 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Estimación de Accuracy [[Colab]](https://drive.google.com/file/d/1-Lj0ggk6ERQnbDu7gV2DQ3n9zdV8W0Yf/view?usp=sharing)
+* 5.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Aspectos practicos**
+* 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Aspectos prácticos [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05B_ModelSelector.pdf)
+* 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Selector de Modelos [[Colab]](https://drive.google.com/file/d/1Fnbnda8AGgdP5fXfIv1B_hvrRM9sPCXv/view?usp=sharing)
+* 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/papers/NG-MLY01_13.pdf)
+<hr/>
+
+### Clase 19 Ma. 17-Nov-2026:
 * 5.0 &nbsp; **MÓDULO PR.05.A**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Métricas de Desempeño**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Qué es evaluación de desempeño? [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05A_EsquemaGeneral.pptx)
-* 5.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Métricas**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Performance (matriz de confusión, sistemas biométricos) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05A_Performance.pptx)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Performance (matriz de confusión, sistemas biométricos) [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05B_Performance.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/pptx/PR05B_Performance.pptx)
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python :Ejemplo de AdaFace y métricas de evaluación [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05A_Understanding-Biometric-Performance-Evaluation.pdf)
 <hr/>
 
-### Clase 19 Ma. 17-Nov-2026:
+### Clase 20 Ju. 19-Nov-2026:
 * 4.6 &nbsp; **MÓDULO PR.04.E**
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Deep Learning**
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/PR04E_CNN.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/pptx/PR04E_CNN.pptx)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
 <hr/>
 
-### Clase 20 Ju. 19-Nov-2026:
+### Clase 21 Ma. 24-Nov-2026:
 * 4.0 &nbsp; **MÓDULO PR.E09**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E09**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E09**
@@ -274,17 +284,6 @@
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E10 [[Colab]](http://google.drive/osso)
 <hr/>
 
-### Clase 21 Ma. 24-Nov-2026:
-* 5.3 &nbsp; **MÓDULO PR.05.B**
-* 5.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Estimación de metricas**
-* 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05B_ConsideracionesPracticas.pptx)
-* 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Estimación de Accuracy [[Colab]](https://drive.google.com/file/d/1-Lj0ggk6ERQnbDu7gV2DQ3n9zdV8W0Yf/view?usp=sharing)
-* 5.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Aspectos practicos**
-* 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Aspectos prácticos [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05B_ModelSelector.pdf)
-* 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Selector de Modelos [[Colab]](https://drive.google.com/file/d/1Fnbnda8AGgdP5fXfIv1B_hvrRM9sPCXv/view?usp=sharing)
-* 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/papers/NG-MLY01_13.pdf)
-<hr/>
-
 ### Clase 22 Ju. 26-Nov-2026:
 * 5.1 &nbsp; **MÓDULO PR.E11**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E11**
@@ -295,4 +294,4 @@
 ---
 
 
-Updated on 12-Nov-2026 at 10:11 by Domingo Mery
+Updated on 12-Nov-2026 at 10:22 by Domingo Mery

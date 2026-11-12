@@ -1,10 +1,10 @@
 
 # Capitulo 05: Evaluacion de Desempeno
 ### 5.1 Introduccion:
+* >> Qué es evaluación de desempeño? [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05A_EsquemaGeneral.*)
 * > **Cap. 05: EVALUACIÓN &mdash; Métricas de Desempeño** 
 * >> Presentación 
-* >> Qué es evaluación de desempeño? [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05A_EsquemaGeneral.pptx)
-* >> Performance (matriz de confusión, sistemas biométricos) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05A_Performance.pptx)
+* >> Performance (matriz de confusión, sistemas biométricos) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05B_Performance.*)
 * **MÓDULO PR.E10** 
 * > **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E10** 
 * > **Ejercicio PR.E10** 
@@ -22,4 +22,4 @@
 ---
 
 
-Updated on 12-Nov-2026 at 10:11 by Domingo Mery
+Updated on 12-Nov-2026 at 10:22 by Domingo Mery
