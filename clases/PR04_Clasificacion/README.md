@@ -13,7 +13,7 @@
 * >> Solución PR.E08 [[Colab]](http://google.drive/osso)
 * > **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E09** 
 * > **Ejercicio PR.E09** 
-* >> Enunciado PR.E09 [[Colab]](http://google.drive/osso)
+* >> Enunciado PR.E09 [[Colab]](https://drive.google.com/file/d/19ehAG78rXBTn9j6BDB_suQ2Z3267ho1i/view?usp=sharing)
 * >> Solución PR.E09 [[Colab]](http://google.drive/osso)
 * --------------------------------------------------------- 
 ### 4.2 Clasificadores basicos:
@@ -55,4 +55,4 @@
 ---
 
 
-Updated on 12-Nov-2026 at 10:22 by Domingo Mery
+Updated on 17-Nov-2026 at 10:37 by Domingo Mery

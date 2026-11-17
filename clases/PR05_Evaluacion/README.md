@@ -8,13 +8,8 @@
 * **MÓDULO PR.E10** 
 * > **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E10** 
 * > **Ejercicio PR.E10** 
-* >> Enunciado PR.E10 [[Colab]](http://google.drive/osso)
+* >> Enunciado PR.E10 [[Colab]](https://drive.google.com/file/d/1IX8umvGKF7j-VF08hw5BhMAGRIRm7FSr/view?usp=sharing)
 * >> Solución PR.E10 [[Colab]](http://google.drive/osso)
-* **MÓDULO PR.E11** 
-* > **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E11** 
-* > **Ejercicio PR.E11** 
-* >> Enunciado PR.E11 [[Colab]](http://google.drive/osso)
-* >> Solución PR.E11 [[Colab]](http://google.drive/osso)
 * **AYUDANTIA EXAMEN** 
 ### 5.2 Metricas de desempeno:
 ### 5.3 Estimacion de las metricas:
@@ -22,4 +17,4 @@
 ---
 
 
-Updated on 12-Nov-2026 at 10:22 by Domingo Mery
+Updated on 17-Nov-2026 at 10:37 by Domingo Mery

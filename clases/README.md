@@ -264,34 +264,29 @@
 <hr/>
 
 ### Clase 20 Ju. 19-Nov-2026:
+* 4.0 &nbsp; **MÓDULO PR.E09**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E09**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E09**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E09 [[Colab]](https://drive.google.com/file/d/19ehAG78rXBTn9j6BDB_suQ2Z3267ho1i/view?usp=sharing)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E09 [[Colab]](http://google.drive/osso)
+* 4.1 &nbsp; ---------------------------------------------------------
+* 5.1 &nbsp; **MÓDULO PR.E10**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E10**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E10**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E10 [[Colab]](https://drive.google.com/file/d/1IX8umvGKF7j-VF08hw5BhMAGRIRm7FSr/view?usp=sharing)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E10 [[Colab]](http://google.drive/osso)
+<hr/>
+
+### Clase 21 Ma. 24-Nov-2026:
 * 4.6 &nbsp; **MÓDULO PR.04.E**
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash;  Deep Learning**
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/PR04E_CNN.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR04_Clasificacion/presentaciones/pptx/PR04E_CNN.pptx)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
 <hr/>
 
-### Clase 21 Ma. 24-Nov-2026:
-* 4.0 &nbsp; **MÓDULO PR.E09**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 04: CLASIFICACIÓN &mdash; Ejercicio PR.E09**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E09**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E09 [[Colab]](http://google.drive/osso)
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E09 [[Colab]](http://google.drive/osso)
-* 4.1 &nbsp; ---------------------------------------------------------
-* 5.1 &nbsp; **MÓDULO PR.E10**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E10**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E10**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E10 [[Colab]](http://google.drive/osso)
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E10 [[Colab]](http://google.drive/osso)
-<hr/>
-
 ### Clase 22 Ju. 26-Nov-2026:
-* 5.1 &nbsp; **MÓDULO PR.E11**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Ejercicio PR.E11**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E11**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado PR.E11 [[Colab]](http://google.drive/osso)
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución PR.E11 [[Colab]](http://google.drive/osso)
 * 5.1 &nbsp; **AYUDANTIA EXAMEN**
 ---
 
 
-Updated on 12-Nov-2026 at 10:22 by Domingo Mery
+Updated on 17-Nov-2026 at 10:37 by Domingo Mery
