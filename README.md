@@ -258,9 +258,9 @@
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Métricas de Desempeño**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Performance (matriz de confusión, sistemas biométricos) [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05B_Performance.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/pptx/PR05B_Performance.pptx)
-* 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python :Ejemplo de AdaFace y métricas de evaluación [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
+* 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python :Ejemplo de AdaFace y métricas de evaluación [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ?usp=sharing)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05A_Understanding-Biometric-Performance-Evaluation.pdf)
+* 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05B_Understanding-Biometric-Performance-Evaluation.pdf)
 <hr/>
 
 ### Clase 20 Ju. 19-Nov-2026:
@@ -289,4 +289,4 @@
 ---
 
 
-Updated on 17-Nov-2026 at 10:37 by Domingo Mery
+Updated on 17-Nov-2026 at 10:47 by Domingo Mery
