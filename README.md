@@ -245,10 +245,10 @@
 * 5.3 &nbsp; **MÓDULO PR.05.A**
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 05: EVALUACIÓN &mdash; Estimación de metricas**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Qué es evaluación de desempeño? [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05A_EsquemaGeneral.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/pptx/PR05A_EsquemaGeneral.pptx)
-* 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05A_ConsideracionesPracticas.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/pptx/PR05A_ConsideracionesPracticas.pptx)
+* 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones prácticas [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05A_ConsideracionesPracticas.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/pptx/PR05A_ConsideracionesPracticas.pptx)
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Estimación de Accuracy [[Colab]](https://drive.google.com/file/d/1-Lj0ggk6ERQnbDu7gV2DQ3n9zdV8W0Yf/view?usp=sharing)
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Aspectos practicos**
-* 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Aspectos prácticos [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05B_ModelSelector.pdf)
+* 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Selector de Modelos [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/presentaciones/PR05B_ModelSelector.pdf)
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Selector de Modelos [[Colab]](https://drive.google.com/file/d/1Fnbnda8AGgdP5fXfIv1B_hvrRM9sPCXv/view?usp=sharing)
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/papers/NG-MLY01_13.pdf)
 <hr/>
@@ -289,4 +289,4 @@
 ---
 
 
-Updated on 19-Nov-2026 at 10:32 by Domingo Mery
+Updated on 19-Nov-2026 at 10:52 by Domingo Mery
