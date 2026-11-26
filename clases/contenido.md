@@ -4,11 +4,10 @@
 
 
 | Capítulo | Modulo-A | Modulo-B | Modulo-C | Modulo-D | Modulo-E | Modulo-F |
-| :---     | :---: | :---: | :---: | :---: | :---: | ---: |
+| :---     | :---: | :---: | :---: | :---: | :---: | :---: |
 | 00-Líneas Generales | A  | B  | C  | D  | E  | F  |
-| 01-Introducción  | Introducción  | B  | C  | D  | E  | F  |
-| | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01A_EjemploIntroductorio.pptx)  | B  | C  | D  | E  | F  |
-| :---     | :---: | :---: | :---: | :---: | :---: | ---: |
+| 01-Introducción  | Introducción  | Metodología  | C  | D  | E  | F  |
+| | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01A_EjemploIntroductorio.pptx)  | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01B_FormulacionMetodologica.pptx)  | C  | D  | E  | F  |
 | 02-Extracción de Características | A  | B  | C  | D  | E  | F  |
 | 03-Selección de Características | A  | B  | C  | D  | E  | F  |
 | 04-Clasificación | A  | B  | C  | D  | E  | F  |
