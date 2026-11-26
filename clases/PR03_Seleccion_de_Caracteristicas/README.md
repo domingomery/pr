@@ -32,16 +32,12 @@
 * **ENUNCIADO TAREA 02** [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03_Tarea02_Enunciado.*)
 * > Base de Datos de la Tarea 02 [[BD]](https://drive.google.com/file/d/16Zs_DQljQ6Lmtt3HCgsuD1mgABmB0gPU/view?usp=sharing)
 ### 3.4 Estrategias de seleccion y transformacion:
-* >> Python: Bateria de ejemplos de selección de características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
-* --------------------------------------------------------- 
-* **MÓDULO PR.03.C** 
-* > **Cap. 03: SELECCIÓN  &mdash;  Estrategias** 
-* >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03C_GeneralSchema.*)
-* > **Material de apoyo para la clase** 
 * >> How to perform feature selection with numerical input data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
 * >> Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
 * >> Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
+* >> Python: Bateria de ejemplos de selección de características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
+* --------------------------------------------------------- 
 ---
 
 
-Updated on 26-Nov-2026 at 14:57 by Domingo Mery
+Updated on 26-Nov-2026 at 15:09 by Domingo Mery

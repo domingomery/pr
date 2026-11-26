@@ -143,6 +143,9 @@
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Apuntes sobre la selección de características [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03_FeatureSelection_Intro.pdf)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Introducción a la selección de características [[Paper]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03_FeatureSelection.pdf)
+* 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  How to perform feature selection with numerical input data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
+* 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
+* 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 <hr/>
 
 ### Clase 10 Ju. 08-Oct-2026:
@@ -161,13 +164,6 @@
 <hr/>
 
 ### Clase 11 Ma. 13-Oct-2026:
-* 3.4 &nbsp; **MÓDULO PR.03.C**
-* 3.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: SELECCIÓN  &mdash;  Estrategias**
-* 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03C_GeneralSchema.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/pptx/PR03C_GeneralSchema.pptx)
-* 3.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  How to perform feature selection with numerical input data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
-* 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
-* 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 * 3.0 &nbsp; **MÓDULO PR.E05**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap. 03: EXTRACCIÓN &mdash; Ejercicio PR.E05**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio PR.E05 - Reconocimiento de dígitos**
@@ -290,4 +286,4 @@
 ---
 
 
-Updated on 26-Nov-2026 at 14:57 by Domingo Mery
+Updated on 26-Nov-2026 at 15:09 by Domingo Mery
