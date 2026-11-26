@@ -6,12 +6,16 @@
 | Capítulo | Modulo-A | Modulo-B | Modulo-C | Modulo-D | Modulo-E | Modulo-F |
 | :---     | :---: | :---: | :---: | :---: | :---: | :---: |
 | 00-Líneas Generales | A  | B  | C  | D  | E  | F  |
-| 01-Introducción  | Introducción  | Metodología  | C  | D  | E  | F  |
-| | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01A_EjemploIntroductorio.pptx)  | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01B_FormulacionMetodologica.pptx)  | C  | D  | E  | F  |
-| 02-Extracción de Características | A  | B  | C  | D  | E  | F  |
-| 03-Selección de Características | A  | B  | C  | D  | E  | F  |
+| 01-Introducción  | Introducción  | Metodología  | Proc. Imágenes  | D  | E  | F  |
+| | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01A_EjemploIntroductorio.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01A_EjemploIntroductorio.pptx)  | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01B_FormulacionMetodologica.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01B_FormulacionMetodologica.pptx)  | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/PR01C_ProcesamientoImagenes.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR01_Introduccion/presentaciones/pptx/PR01C_ProcesamientoImagenes.pptx)  | D  | E  | F  |
+| 02-Extracción de Características | Geométricas  | Segmentación  | Cromáticas  | HoG + LBP  | E  | F  |
+|                                  | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02A_CaracteristicasGeometricas.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02A_CaracteristicasGeometricas.pptx)  | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02B_Segmentacion.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02B_Segmentacion.pptx)  | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02C_CaracteristicasColor.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02C_CaracteristicasColor.pptx)  | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/PR02D_HoG_LBP.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR02_Extraccion_de_Caracteristicas/presentaciones/pptx/PR02D_HoG_LBP.pptx)  | E  | F  |
+| 03-Selección de Características | Básica  | PCA  | Estrategias  | D  | E  | F  |
+|                                 | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03A_SeleccionCaracteristicas.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/pptx/PR03A_SeleccionCaracteristicas.pptx)  | [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03B_PCA.pdf) [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/pptx/PR03B_PCA.pptx)  | [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03C_GeneralSchema.pdf)  | D  | E  | F  |
 | 04-Clasificación | A  | B  | C  | D  | E  | F  |
 | 05-Evaluación | A  | B  | C  | D  | E  | F  |
+
+
 
 
 (este material tambien esta disponible en las clases de cada capitulo)
