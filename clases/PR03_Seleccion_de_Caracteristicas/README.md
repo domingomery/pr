@@ -36,7 +36,7 @@
 * --------------------------------------------------------- 
 * **MÓDULO PR.03.C** 
 * > **Cap. 03: SELECCIÓN  &mdash;  Estrategias** 
-* >> Presentación [[Apuntes]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03C_GeneralSchema.pdf)
+* >> Presentación [[PPT]](https://github.com/domingomery/pr/blob/main/clases/PR03_Seleccion_de_Caracteristicas/presentaciones/PR03C_GeneralSchema.*)
 * > **Material de apoyo para la clase** 
 * >> How to perform feature selection with numerical input data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
 * >> Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
@@ -44,4 +44,4 @@
 ---
 
 
-Updated on 26-Nov-2026 at 10:51 by Domingo Mery
+Updated on 26-Nov-2026 at 14:57 by Domingo Mery
