@@ -286,7 +286,8 @@
 
 ### Clase 22 Ju. 26-Nov-2026:
 * 5.1 &nbsp; **AYUDANTIA EXAMEN**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  Ejercicios de desarrollo para el examen final [[PDF]](https://github.com/domingomery/pr/blob/main/clases/PR05_Evaluacion/extras/2026-2-Ayudantia.pdf)
 ---
 
 
-Updated on 26-Nov-2026 at 10:29 by Domingo Mery
+Updated on 26-Nov-2026 at 10:51 by Domingo Mery
